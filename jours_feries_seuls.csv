@@ -1,6 +1,5 @@
 date,est_jour_ferie,nom_jour_ferie
 1950-01-01,True,Jour de l'an
-1950-04-09,True,Pâques
 1950-04-10,True,Lundi de Pâques
 1950-05-01,True,Fête du travail
 1950-05-08,True,Victoire des alliés
@@ -12,7 +11,6 @@ date,est_jour_ferie,nom_jour_ferie
 1950-11-11,True,Armistice
 1950-12-25,True,Noël
 1951-01-01,True,Jour de l'an
-1951-03-25,True,Pâques
 1951-03-26,True,Lundi de Pâques
 1951-05-01,True,Fête du travail
 1951-05-03,True,Ascension
@@ -24,7 +22,6 @@ date,est_jour_ferie,nom_jour_ferie
 1951-11-11,True,Armistice
 1951-12-25,True,Noël
 1952-01-01,True,Jour de l'an
-1952-04-13,True,Pâques
 1952-04-14,True,Lundi de Pâques
 1952-05-01,True,Fête du travail
 1952-05-08,True,Victoire des alliés
@@ -36,7 +33,6 @@ date,est_jour_ferie,nom_jour_ferie
 1952-11-11,True,Armistice
 1952-12-25,True,Noël
 1953-01-01,True,Jour de l'an
-1953-04-05,True,Pâques
 1953-04-06,True,Lundi de Pâques
 1953-05-01,True,Fête du travail
 1953-05-08,True,Victoire des alliés
@@ -59,7 +55,6 @@ date,est_jour_ferie,nom_jour_ferie
 1954-11-11,True,Armistice
 1954-12-25,True,Noël
 1955-01-01,True,Jour de l'an
-1955-04-10,True,Pâques
 1955-04-11,True,Lundi de Pâques
 1955-05-01,True,Fête du travail
 1955-05-08,True,Victoire des alliés
@@ -71,7 +66,6 @@ date,est_jour_ferie,nom_jour_ferie
 1955-11-11,True,Armistice
 1955-12-25,True,Noël
 1956-01-01,True,Jour de l'an
-1956-04-01,True,Pâques
 1956-04-02,True,Lundi de Pâques
 1956-05-01,True,Fête du travail
 1956-05-08,True,Victoire des alliés
@@ -83,7 +77,6 @@ date,est_jour_ferie,nom_jour_ferie
 1956-11-11,True,Armistice
 1956-12-25,True,Noël
 1957-01-01,True,Jour de l'an
-1957-04-21,True,Pâques
 1957-04-22,True,Lundi de Pâques
 1957-05-01,True,Fête du travail
 1957-05-08,True,Victoire des alliés
@@ -95,7 +88,6 @@ date,est_jour_ferie,nom_jour_ferie
 1957-11-11,True,Armistice
 1957-12-25,True,Noël
 1958-01-01,True,Jour de l'an
-1958-04-06,True,Pâques
 1958-04-07,True,Lundi de Pâques
 1958-05-01,True,Fête du travail
 1958-05-08,True,Victoire des alliés
@@ -107,7 +99,6 @@ date,est_jour_ferie,nom_jour_ferie
 1958-11-11,True,Armistice
 1958-12-25,True,Noël
 1959-01-01,True,Jour de l'an
-1959-03-29,True,Pâques
 1959-03-30,True,Lundi de Pâques
 1959-05-01,True,Fête du travail
 1959-05-07,True,Ascension
@@ -119,7 +110,6 @@ date,est_jour_ferie,nom_jour_ferie
 1959-11-11,True,Armistice
 1959-12-25,True,Noël
 1960-01-01,True,Jour de l'an
-1960-04-17,True,Pâques
 1960-04-18,True,Lundi de Pâques
 1960-05-01,True,Fête du travail
 1960-05-08,True,Victoire des alliés
@@ -131,7 +121,6 @@ date,est_jour_ferie,nom_jour_ferie
 1960-11-11,True,Armistice
 1960-12-25,True,Noël
 1961-01-01,True,Jour de l'an
-1961-04-02,True,Pâques
 1961-04-03,True,Lundi de Pâques
 1961-05-01,True,Fête du travail
 1961-05-08,True,Victoire des alliés
@@ -143,7 +132,6 @@ date,est_jour_ferie,nom_jour_ferie
 1961-11-11,True,Armistice
 1961-12-25,True,Noël
 1962-01-01,True,Jour de l'an
-1962-04-22,True,Pâques
 1962-04-23,True,Lundi de Pâques
 1962-05-01,True,Fête du travail
 1962-05-08,True,Victoire des alliés
@@ -155,7 +143,6 @@ date,est_jour_ferie,nom_jour_ferie
 1962-11-11,True,Armistice
 1962-12-25,True,Noël
 1963-01-01,True,Jour de l'an
-1963-04-14,True,Pâques
 1963-04-15,True,Lundi de Pâques
 1963-05-01,True,Fête du travail
 1963-05-08,True,Victoire des alliés
@@ -167,7 +154,6 @@ date,est_jour_ferie,nom_jour_ferie
 1963-11-11,True,Armistice
 1963-12-25,True,Noël
 1964-01-01,True,Jour de l'an
-1964-03-29,True,Pâques
 1964-03-30,True,Lundi de Pâques
 1964-05-01,True,Fête du travail
 1964-05-07,True,Ascension
@@ -179,7 +165,6 @@ date,est_jour_ferie,nom_jour_ferie
 1964-11-11,True,Armistice
 1964-12-25,True,Noël
 1965-01-01,True,Jour de l'an
-1965-04-18,True,Pâques
 1965-04-19,True,Lundi de Pâques
 1965-05-01,True,Fête du travail
 1965-05-08,True,Victoire des alliés
@@ -191,7 +176,6 @@ date,est_jour_ferie,nom_jour_ferie
 1965-11-11,True,Armistice
 1965-12-25,True,Noël
 1966-01-01,True,Jour de l'an
-1966-04-10,True,Pâques
 1966-04-11,True,Lundi de Pâques
 1966-05-01,True,Fête du travail
 1966-05-08,True,Victoire des alliés
@@ -203,7 +187,6 @@ date,est_jour_ferie,nom_jour_ferie
 1966-11-11,True,Armistice
 1966-12-25,True,Noël
 1967-01-01,True,Jour de l'an
-1967-03-26,True,Pâques
 1967-03-27,True,Lundi de Pâques
 1967-05-01,True,Fête du travail
 1967-05-04,True,Ascension
@@ -215,7 +198,6 @@ date,est_jour_ferie,nom_jour_ferie
 1967-11-11,True,Armistice
 1967-12-25,True,Noël
 1968-01-01,True,Jour de l'an
-1968-04-14,True,Pâques
 1968-04-15,True,Lundi de Pâques
 1968-05-01,True,Fête du travail
 1968-05-08,True,Victoire des alliés
@@ -227,7 +209,6 @@ date,est_jour_ferie,nom_jour_ferie
 1968-11-11,True,Armistice
 1968-12-25,True,Noël
 1969-01-01,True,Jour de l'an
-1969-04-06,True,Pâques
 1969-04-07,True,Lundi de Pâques
 1969-05-01,True,Fête du travail
 1969-05-08,True,Victoire des alliés
@@ -239,7 +220,6 @@ date,est_jour_ferie,nom_jour_ferie
 1969-11-11,True,Armistice
 1969-12-25,True,Noël
 1970-01-01,True,Jour de l'an
-1970-03-29,True,Pâques
 1970-03-30,True,Lundi de Pâques
 1970-05-01,True,Fête du travail
 1970-05-07,True,Ascension
@@ -251,7 +231,6 @@ date,est_jour_ferie,nom_jour_ferie
 1970-11-11,True,Armistice
 1970-12-25,True,Noël
 1971-01-01,True,Jour de l'an
-1971-04-11,True,Pâques
 1971-04-12,True,Lundi de Pâques
 1971-05-01,True,Fête du travail
 1971-05-08,True,Victoire des alliés
@@ -263,7 +242,6 @@ date,est_jour_ferie,nom_jour_ferie
 1971-11-11,True,Armistice
 1971-12-25,True,Noël
 1972-01-01,True,Jour de l'an
-1972-04-02,True,Pâques
 1972-04-03,True,Lundi de Pâques
 1972-05-01,True,Fête du travail
 1972-05-08,True,Victoire des alliés
@@ -275,7 +253,6 @@ date,est_jour_ferie,nom_jour_ferie
 1972-11-11,True,Armistice
 1972-12-25,True,Noël
 1973-01-01,True,Jour de l'an
-1973-04-22,True,Pâques
 1973-04-23,True,Lundi de Pâques
 1973-05-01,True,Fête du travail
 1973-05-08,True,Victoire des alliés
@@ -287,7 +264,6 @@ date,est_jour_ferie,nom_jour_ferie
 1973-11-11,True,Armistice
 1973-12-25,True,Noël
 1974-01-01,True,Jour de l'an
-1974-04-14,True,Pâques
 1974-04-15,True,Lundi de Pâques
 1974-05-01,True,Fête du travail
 1974-05-08,True,Victoire des alliés
@@ -299,7 +275,6 @@ date,est_jour_ferie,nom_jour_ferie
 1974-11-11,True,Armistice
 1974-12-25,True,Noël
 1975-01-01,True,Jour de l'an
-1975-03-30,True,Pâques
 1975-03-31,True,Lundi de Pâques
 1975-05-01,True,Fête du travail
 1975-05-08,True,Victoire des alliés
@@ -310,7 +285,6 @@ date,est_jour_ferie,nom_jour_ferie
 1975-11-11,True,Armistice
 1975-12-25,True,Noël
 1976-01-01,True,Jour de l'an
-1976-04-18,True,Pâques
 1976-04-19,True,Lundi de Pâques
 1976-05-01,True,Fête du travail
 1976-05-08,True,Victoire des alliés
@@ -322,7 +296,6 @@ date,est_jour_ferie,nom_jour_ferie
 1976-11-11,True,Armistice
 1976-12-25,True,Noël
 1977-01-01,True,Jour de l'an
-1977-04-10,True,Pâques
 1977-04-11,True,Lundi de Pâques
 1977-05-01,True,Fête du travail
 1977-05-08,True,Victoire des alliés
@@ -334,7 +307,6 @@ date,est_jour_ferie,nom_jour_ferie
 1977-11-11,True,Armistice
 1977-12-25,True,Noël
 1978-01-01,True,Jour de l'an
-1978-03-26,True,Pâques
 1978-03-27,True,Lundi de Pâques
 1978-05-01,True,Fête du travail
 1978-05-04,True,Ascension
@@ -346,7 +318,6 @@ date,est_jour_ferie,nom_jour_ferie
 1978-11-11,True,Armistice
 1978-12-25,True,Noël
 1979-01-01,True,Jour de l'an
-1979-04-15,True,Pâques
 1979-04-16,True,Lundi de Pâques
 1979-05-01,True,Fête du travail
 1979-05-08,True,Victoire des alliés
@@ -358,7 +329,6 @@ date,est_jour_ferie,nom_jour_ferie
 1979-11-11,True,Armistice
 1979-12-25,True,Noël
 1980-01-01,True,Jour de l'an
-1980-04-06,True,Pâques
 1980-04-07,True,Lundi de Pâques
 1980-05-01,True,Fête du travail
 1980-05-08,True,Victoire des alliés
@@ -371,7 +341,6 @@ date,est_jour_ferie,nom_jour_ferie
 1980-12-25,True,Noël
 1981-01-01,True,Jour de l'an
 1981-05-01,True,Fête du travail
-1981-05-02,True,Pâques
 1981-05-03,True,Lundi de Pâques
 1981-05-08,True,Victoire des alliés
 1981-06-10,True,Ascension
@@ -382,7 +351,6 @@ date,est_jour_ferie,nom_jour_ferie
 1981-11-11,True,Armistice
 1981-12-25,True,Noël
 1982-01-01,True,Jour de l'an
-1982-04-11,True,Pâques
 1982-04-12,True,Lundi de Pâques
 1982-05-01,True,Fête du travail
 1982-05-08,True,Victoire des alliés
@@ -394,7 +362,6 @@ date,est_jour_ferie,nom_jour_ferie
 1982-11-11,True,Armistice
 1982-12-25,True,Noël
 1983-01-01,True,Jour de l'an
-1983-04-03,True,Pâques
 1983-04-04,True,Lundi de Pâques
 1983-05-01,True,Fête du travail
 1983-05-08,True,Victoire des alliés
@@ -406,7 +373,6 @@ date,est_jour_ferie,nom_jour_ferie
 1983-11-11,True,Armistice
 1983-12-25,True,Noël
 1984-01-01,True,Jour de l'an
-1984-04-22,True,Pâques
 1984-04-23,True,Lundi de Pâques
 1984-05-01,True,Fête du travail
 1984-05-08,True,Victoire des alliés
@@ -418,7 +384,6 @@ date,est_jour_ferie,nom_jour_ferie
 1984-11-11,True,Armistice
 1984-12-25,True,Noël
 1985-01-01,True,Jour de l'an
-1985-04-07,True,Pâques
 1985-04-08,True,Lundi de Pâques
 1985-05-01,True,Fête du travail
 1985-05-08,True,Victoire des alliés
@@ -430,7 +395,6 @@ date,est_jour_ferie,nom_jour_ferie
 1985-11-11,True,Armistice
 1985-12-25,True,Noël
 1986-01-01,True,Jour de l'an
-1986-03-30,True,Pâques
 1986-03-31,True,Lundi de Pâques
 1986-05-01,True,Fête du travail
 1986-05-08,True,Victoire des alliés
@@ -441,7 +405,6 @@ date,est_jour_ferie,nom_jour_ferie
 1986-11-11,True,Armistice
 1986-12-25,True,Noël
 1987-01-01,True,Jour de l'an
-1987-04-19,True,Pâques
 1987-04-20,True,Lundi de Pâques
 1987-05-01,True,Fête du travail
 1987-05-08,True,Victoire des alliés
@@ -453,7 +416,6 @@ date,est_jour_ferie,nom_jour_ferie
 1987-11-11,True,Armistice
 1987-12-25,True,Noël
 1988-01-01,True,Jour de l'an
-1988-04-03,True,Pâques
 1988-04-04,True,Lundi de Pâques
 1988-05-01,True,Fête du travail
 1988-05-08,True,Victoire des alliés
@@ -465,7 +427,6 @@ date,est_jour_ferie,nom_jour_ferie
 1988-11-11,True,Armistice
 1988-12-25,True,Noël
 1989-01-01,True,Jour de l'an
-1989-03-26,True,Pâques
 1989-03-27,True,Lundi de Pâques
 1989-05-01,True,Fête du travail
 1989-05-04,True,Ascension
@@ -477,7 +438,6 @@ date,est_jour_ferie,nom_jour_ferie
 1989-11-11,True,Armistice
 1989-12-25,True,Noël
 1990-01-01,True,Jour de l'an
-1990-04-15,True,Pâques
 1990-04-16,True,Lundi de Pâques
 1990-05-01,True,Fête du travail
 1990-05-08,True,Victoire des alliés
@@ -489,7 +449,6 @@ date,est_jour_ferie,nom_jour_ferie
 1990-11-11,True,Armistice
 1990-12-25,True,Noël
 1991-01-01,True,Jour de l'an
-1991-03-31,True,Pâques
 1991-04-01,True,Lundi de Pâques
 1991-05-01,True,Fête du travail
 1991-05-08,True,Victoire des alliés
@@ -501,7 +460,6 @@ date,est_jour_ferie,nom_jour_ferie
 1991-11-11,True,Armistice
 1991-12-25,True,Noël
 1992-01-01,True,Jour de l'an
-1992-04-19,True,Pâques
 1992-04-20,True,Lundi de Pâques
 1992-05-01,True,Fête du travail
 1992-05-08,True,Victoire des alliés
@@ -513,7 +471,6 @@ date,est_jour_ferie,nom_jour_ferie
 1992-11-11,True,Armistice
 1992-12-25,True,Noël
 1993-01-01,True,Jour de l'an
-1993-04-11,True,Pâques
 1993-04-12,True,Lundi de Pâques
 1993-05-01,True,Fête du travail
 1993-05-08,True,Victoire des alliés
@@ -525,7 +482,6 @@ date,est_jour_ferie,nom_jour_ferie
 1993-11-11,True,Armistice
 1993-12-25,True,Noël
 1994-01-01,True,Jour de l'an
-1994-04-03,True,Pâques
 1994-04-04,True,Lundi de Pâques
 1994-05-01,True,Fête du travail
 1994-05-08,True,Victoire des alliés
@@ -537,7 +493,6 @@ date,est_jour_ferie,nom_jour_ferie
 1994-11-11,True,Armistice
 1994-12-25,True,Noël
 1995-01-01,True,Jour de l'an
-1995-04-16,True,Pâques
 1995-04-17,True,Lundi de Pâques
 1995-05-01,True,Fête du travail
 1995-05-08,True,Victoire des alliés
@@ -549,7 +504,6 @@ date,est_jour_ferie,nom_jour_ferie
 1995-11-11,True,Armistice
 1995-12-25,True,Noël
 1996-01-01,True,Jour de l'an
-1996-04-07,True,Pâques
 1996-04-08,True,Lundi de Pâques
 1996-05-01,True,Fête du travail
 1996-05-08,True,Victoire des alliés
@@ -561,7 +515,6 @@ date,est_jour_ferie,nom_jour_ferie
 1996-11-11,True,Armistice
 1996-12-25,True,Noël
 1997-01-01,True,Jour de l'an
-1997-03-30,True,Pâques
 1997-03-31,True,Lundi de Pâques
 1997-05-01,True,Fête du travail
 1997-05-08,True,Victoire des alliés
@@ -572,7 +525,6 @@ date,est_jour_ferie,nom_jour_ferie
 1997-11-11,True,Armistice
 1997-12-25,True,Noël
 1998-01-01,True,Jour de l'an
-1998-04-12,True,Pâques
 1998-04-13,True,Lundi de Pâques
 1998-05-01,True,Fête du travail
 1998-05-08,True,Victoire des alliés
@@ -584,7 +536,6 @@ date,est_jour_ferie,nom_jour_ferie
 1998-11-11,True,Armistice
 1998-12-25,True,Noël
 1999-01-01,True,Jour de l'an
-1999-04-04,True,Pâques
 1999-04-05,True,Lundi de Pâques
 1999-05-01,True,Fête du travail
 1999-05-08,True,Victoire des alliés
@@ -596,7 +547,6 @@ date,est_jour_ferie,nom_jour_ferie
 1999-11-11,True,Armistice
 1999-12-25,True,Noël
 2000-01-01,True,Jour de l'an
-2000-04-23,True,Pâques
 2000-04-24,True,Lundi de Pâques
 2000-05-01,True,Fête du travail
 2000-05-08,True,Victoire des alliés
@@ -608,7 +558,6 @@ date,est_jour_ferie,nom_jour_ferie
 2000-11-11,True,Armistice
 2000-12-25,True,Noël
 2001-01-01,True,Jour de l'an
-2001-04-15,True,Pâques
 2001-04-16,True,Lundi de Pâques
 2001-05-01,True,Fête du travail
 2001-05-08,True,Victoire des alliés
@@ -620,7 +569,6 @@ date,est_jour_ferie,nom_jour_ferie
 2001-11-11,True,Armistice
 2001-12-25,True,Noël
 2002-01-01,True,Jour de l'an
-2002-03-31,True,Pâques
 2002-04-01,True,Lundi de Pâques
 2002-05-01,True,Fête du travail
 2002-05-08,True,Victoire des alliés
@@ -632,7 +580,6 @@ date,est_jour_ferie,nom_jour_ferie
 2002-11-11,True,Armistice
 2002-12-25,True,Noël
 2003-01-01,True,Jour de l'an
-2003-04-20,True,Pâques
 2003-04-21,True,Lundi de Pâques
 2003-05-01,True,Fête du travail
 2003-05-08,True,Victoire des alliés
@@ -644,7 +591,6 @@ date,est_jour_ferie,nom_jour_ferie
 2003-11-11,True,Armistice
 2003-12-25,True,Noël
 2004-01-01,True,Jour de l'an
-2004-04-11,True,Pâques
 2004-04-12,True,Lundi de Pâques
 2004-05-01,True,Fête du travail
 2004-05-08,True,Victoire des alliés
@@ -656,7 +602,6 @@ date,est_jour_ferie,nom_jour_ferie
 2004-11-11,True,Armistice
 2004-12-25,True,Noël
 2005-01-01,True,Jour de l'an
-2005-03-27,True,Pâques
 2005-03-28,True,Lundi de Pâques
 2005-05-01,True,Fête du travail
 2005-05-05,True,Ascension
@@ -668,7 +613,6 @@ date,est_jour_ferie,nom_jour_ferie
 2005-11-11,True,Armistice
 2005-12-25,True,Noël
 2006-01-01,True,Jour de l'an
-2006-04-16,True,Pâques
 2006-04-17,True,Lundi de Pâques
 2006-05-01,True,Fête du travail
 2006-05-08,True,Victoire des alliés
@@ -680,7 +624,6 @@ date,est_jour_ferie,nom_jour_ferie
 2006-11-11,True,Armistice
 2006-12-25,True,Noël
 2007-01-01,True,Jour de l'an
-2007-04-08,True,Pâques
 2007-04-09,True,Lundi de Pâques
 2007-05-01,True,Fête du travail
 2007-05-08,True,Victoire des alliés
@@ -692,7 +635,6 @@ date,est_jour_ferie,nom_jour_ferie
 2007-11-11,True,Armistice
 2007-12-25,True,Noël
 2008-01-01,True,Jour de l'an
-2008-03-23,True,Pâques
 2008-03-24,True,Lundi de Pâques
 2008-05-01,True,Fête du travail
 2008-05-08,True,Victoire des alliés
@@ -703,7 +645,6 @@ date,est_jour_ferie,nom_jour_ferie
 2008-11-11,True,Armistice
 2008-12-25,True,Noël
 2009-01-01,True,Jour de l'an
-2009-04-12,True,Pâques
 2009-04-13,True,Lundi de Pâques
 2009-05-01,True,Fête du travail
 2009-05-08,True,Victoire des alliés
@@ -715,7 +656,6 @@ date,est_jour_ferie,nom_jour_ferie
 2009-11-11,True,Armistice
 2009-12-25,True,Noël
 2010-01-01,True,Jour de l'an
-2010-04-04,True,Pâques
 2010-04-05,True,Lundi de Pâques
 2010-05-01,True,Fête du travail
 2010-05-08,True,Victoire des alliés
@@ -727,7 +667,6 @@ date,est_jour_ferie,nom_jour_ferie
 2010-11-11,True,Armistice
 2010-12-25,True,Noël
 2011-01-01,True,Jour de l'an
-2011-04-24,True,Pâques
 2011-04-25,True,Lundi de Pâques
 2011-05-01,True,Fête du travail
 2011-05-08,True,Victoire des alliés
@@ -739,7 +678,6 @@ date,est_jour_ferie,nom_jour_ferie
 2011-11-11,True,Armistice
 2011-12-25,True,Noël
 2012-01-01,True,Jour de l'an
-2012-04-08,True,Pâques
 2012-04-09,True,Lundi de Pâques
 2012-05-01,True,Fête du travail
 2012-05-08,True,Victoire des alliés
@@ -751,7 +689,6 @@ date,est_jour_ferie,nom_jour_ferie
 2012-11-11,True,Armistice
 2012-12-25,True,Noël
 2013-01-01,True,Jour de l'an
-2013-03-31,True,Pâques
 2013-04-01,True,Lundi de Pâques
 2013-05-01,True,Fête du travail
 2013-05-08,True,Victoire des alliés
@@ -763,7 +700,6 @@ date,est_jour_ferie,nom_jour_ferie
 2013-11-11,True,Armistice
 2013-12-25,True,Noël
 2014-01-01,True,Jour de l'an
-2014-04-20,True,Pâques
 2014-04-21,True,Lundi de Pâques
 2014-05-01,True,Fête du travail
 2014-05-08,True,Victoire des alliés
@@ -775,7 +711,6 @@ date,est_jour_ferie,nom_jour_ferie
 2014-11-11,True,Armistice
 2014-12-25,True,Noël
 2015-01-01,True,Jour de l'an
-2015-04-05,True,Pâques
 2015-04-06,True,Lundi de Pâques
 2015-05-01,True,Fête du travail
 2015-05-08,True,Victoire des alliés
@@ -787,7 +722,6 @@ date,est_jour_ferie,nom_jour_ferie
 2015-11-11,True,Armistice
 2015-12-25,True,Noël
 2016-01-01,True,Jour de l'an
-2016-03-27,True,Pâques
 2016-03-28,True,Lundi de Pâques
 2016-05-01,True,Fête du travail
 2016-05-05,True,Ascension
@@ -799,7 +733,6 @@ date,est_jour_ferie,nom_jour_ferie
 2016-11-11,True,Armistice
 2016-12-25,True,Noël
 2017-01-01,True,Jour de l'an
-2017-04-16,True,Pâques
 2017-04-17,True,Lundi de Pâques
 2017-05-01,True,Fête du travail
 2017-05-08,True,Victoire des alliés
@@ -811,7 +744,6 @@ date,est_jour_ferie,nom_jour_ferie
 2017-11-11,True,Armistice
 2017-12-25,True,Noël
 2018-01-01,True,Jour de l'an
-2018-04-01,True,Pâques
 2018-04-02,True,Lundi de Pâques
 2018-05-01,True,Fête du travail
 2018-05-08,True,Victoire des alliés
@@ -823,7 +755,6 @@ date,est_jour_ferie,nom_jour_ferie
 2018-11-11,True,Armistice
 2018-12-25,True,Noël
 2019-01-01,True,Jour de l'an
-2019-04-21,True,Pâques
 2019-04-22,True,Lundi de Pâques
 2019-05-01,True,Fête du travail
 2019-05-08,True,Victoire des alliés
@@ -835,7 +766,6 @@ date,est_jour_ferie,nom_jour_ferie
 2019-11-11,True,Armistice
 2019-12-25,True,Noël
 2020-01-01,True,Jour de l'an
-2020-04-12,True,Pâques
 2020-04-13,True,Lundi de Pâques
 2020-05-01,True,Fête du travail
 2020-05-08,True,Victoire des alliés
@@ -847,7 +777,6 @@ date,est_jour_ferie,nom_jour_ferie
 2020-11-11,True,Armistice
 2020-12-25,True,Noël
 2021-01-01,True,Jour de l'an
-2021-04-04,True,Pâques
 2021-04-05,True,Lundi de Pâques
 2021-05-01,True,Fête du travail
 2021-05-08,True,Victoire des alliés
@@ -859,7 +788,6 @@ date,est_jour_ferie,nom_jour_ferie
 2021-11-11,True,Armistice
 2021-12-25,True,Noël
 2022-01-01,True,Jour de l'an
-2022-04-17,True,Pâques
 2022-04-18,True,Lundi de Pâques
 2022-05-01,True,Fête du travail
 2022-05-08,True,Victoire des alliés
@@ -871,7 +799,6 @@ date,est_jour_ferie,nom_jour_ferie
 2022-11-11,True,Armistice
 2022-12-25,True,Noël
 2023-01-01,True,Jour de l'an
-2023-04-09,True,Pâques
 2023-04-10,True,Lundi de Pâques
 2023-05-01,True,Fête du travail
 2023-05-08,True,Victoire des alliés
@@ -883,7 +810,6 @@ date,est_jour_ferie,nom_jour_ferie
 2023-11-11,True,Armistice
 2023-12-25,True,Noël
 2024-01-01,True,Jour de l'an
-2024-03-31,True,Pâques
 2024-04-01,True,Lundi de Pâques
 2024-05-01,True,Fête du travail
 2024-05-08,True,Victoire des alliés
@@ -895,7 +821,6 @@ date,est_jour_ferie,nom_jour_ferie
 2024-11-11,True,Armistice
 2024-12-25,True,Noël
 2025-01-01,True,Jour de l'an
-2025-04-20,True,Pâques
 2025-04-21,True,Lundi de Pâques
 2025-05-01,True,Fête du travail
 2025-05-08,True,Victoire des alliés
@@ -907,7 +832,6 @@ date,est_jour_ferie,nom_jour_ferie
 2025-11-11,True,Armistice
 2025-12-25,True,Noël
 2026-01-01,True,Jour de l'an
-2026-04-05,True,Pâques
 2026-04-06,True,Lundi de Pâques
 2026-05-01,True,Fête du travail
 2026-05-08,True,Victoire des alliés
@@ -919,7 +843,6 @@ date,est_jour_ferie,nom_jour_ferie
 2026-11-11,True,Armistice
 2026-12-25,True,Noël
 2027-01-01,True,Jour de l'an
-2027-03-28,True,Pâques
 2027-03-29,True,Lundi de Pâques
 2027-05-01,True,Fête du travail
 2027-05-06,True,Ascension
@@ -931,7 +854,6 @@ date,est_jour_ferie,nom_jour_ferie
 2027-11-11,True,Armistice
 2027-12-25,True,Noël
 2028-01-01,True,Jour de l'an
-2028-04-16,True,Pâques
 2028-04-17,True,Lundi de Pâques
 2028-05-01,True,Fête du travail
 2028-05-08,True,Victoire des alliés
@@ -943,7 +865,6 @@ date,est_jour_ferie,nom_jour_ferie
 2028-11-11,True,Armistice
 2028-12-25,True,Noël
 2029-01-01,True,Jour de l'an
-2029-04-01,True,Pâques
 2029-04-02,True,Lundi de Pâques
 2029-05-01,True,Fête du travail
 2029-05-08,True,Victoire des alliés
@@ -955,7 +876,6 @@ date,est_jour_ferie,nom_jour_ferie
 2029-11-11,True,Armistice
 2029-12-25,True,Noël
 2030-01-01,True,Jour de l'an
-2030-04-21,True,Pâques
 2030-04-22,True,Lundi de Pâques
 2030-05-01,True,Fête du travail
 2030-05-08,True,Victoire des alliés
@@ -967,7 +887,6 @@ date,est_jour_ferie,nom_jour_ferie
 2030-11-11,True,Armistice
 2030-12-25,True,Noël
 2031-01-01,True,Jour de l'an
-2031-04-13,True,Pâques
 2031-04-14,True,Lundi de Pâques
 2031-05-01,True,Fête du travail
 2031-05-08,True,Victoire des alliés
@@ -979,7 +898,6 @@ date,est_jour_ferie,nom_jour_ferie
 2031-11-11,True,Armistice
 2031-12-25,True,Noël
 2032-01-01,True,Jour de l'an
-2032-03-28,True,Pâques
 2032-03-29,True,Lundi de Pâques
 2032-05-01,True,Fête du travail
 2032-05-06,True,Ascension
@@ -991,7 +909,6 @@ date,est_jour_ferie,nom_jour_ferie
 2032-11-11,True,Armistice
 2032-12-25,True,Noël
 2033-01-01,True,Jour de l'an
-2033-04-17,True,Pâques
 2033-04-18,True,Lundi de Pâques
 2033-05-01,True,Fête du travail
 2033-05-08,True,Victoire des alliés
@@ -1003,7 +920,6 @@ date,est_jour_ferie,nom_jour_ferie
 2033-11-11,True,Armistice
 2033-12-25,True,Noël
 2034-01-01,True,Jour de l'an
-2034-04-09,True,Pâques
 2034-04-10,True,Lundi de Pâques
 2034-05-01,True,Fête du travail
 2034-05-08,True,Victoire des alliés
@@ -1015,7 +931,6 @@ date,est_jour_ferie,nom_jour_ferie
 2034-11-11,True,Armistice
 2034-12-25,True,Noël
 2035-01-01,True,Jour de l'an
-2035-03-25,True,Pâques
 2035-03-26,True,Lundi de Pâques
 2035-05-01,True,Fête du travail
 2035-05-03,True,Ascension
@@ -1027,7 +942,6 @@ date,est_jour_ferie,nom_jour_ferie
 2035-11-11,True,Armistice
 2035-12-25,True,Noël
 2036-01-01,True,Jour de l'an
-2036-04-13,True,Pâques
 2036-04-14,True,Lundi de Pâques
 2036-05-01,True,Fête du travail
 2036-05-08,True,Victoire des alliés
@@ -1039,7 +953,6 @@ date,est_jour_ferie,nom_jour_ferie
 2036-11-11,True,Armistice
 2036-12-25,True,Noël
 2037-01-01,True,Jour de l'an
-2037-04-05,True,Pâques
 2037-04-06,True,Lundi de Pâques
 2037-05-01,True,Fête du travail
 2037-05-08,True,Victoire des alliés
@@ -1051,7 +964,6 @@ date,est_jour_ferie,nom_jour_ferie
 2037-11-11,True,Armistice
 2037-12-25,True,Noël
 2038-01-01,True,Jour de l'an
-2038-04-25,True,Pâques
 2038-04-26,True,Lundi de Pâques
 2038-05-01,True,Fête du travail
 2038-05-08,True,Victoire des alliés
@@ -1063,7 +975,6 @@ date,est_jour_ferie,nom_jour_ferie
 2038-11-11,True,Armistice
 2038-12-25,True,Noël
 2039-01-01,True,Jour de l'an
-2039-04-10,True,Pâques
 2039-04-11,True,Lundi de Pâques
 2039-05-01,True,Fête du travail
 2039-05-08,True,Victoire des alliés
@@ -1075,7 +986,6 @@ date,est_jour_ferie,nom_jour_ferie
 2039-11-11,True,Armistice
 2039-12-25,True,Noël
 2040-01-01,True,Jour de l'an
-2040-04-01,True,Pâques
 2040-04-02,True,Lundi de Pâques
 2040-05-01,True,Fête du travail
 2040-05-08,True,Victoire des alliés
@@ -1087,7 +997,6 @@ date,est_jour_ferie,nom_jour_ferie
 2040-11-11,True,Armistice
 2040-12-25,True,Noël
 2041-01-01,True,Jour de l'an
-2041-04-21,True,Pâques
 2041-04-22,True,Lundi de Pâques
 2041-05-01,True,Fête du travail
 2041-05-08,True,Victoire des alliés
@@ -1099,7 +1008,6 @@ date,est_jour_ferie,nom_jour_ferie
 2041-11-11,True,Armistice
 2041-12-25,True,Noël
 2042-01-01,True,Jour de l'an
-2042-04-06,True,Pâques
 2042-04-07,True,Lundi de Pâques
 2042-05-01,True,Fête du travail
 2042-05-08,True,Victoire des alliés
@@ -1111,7 +1019,6 @@ date,est_jour_ferie,nom_jour_ferie
 2042-11-11,True,Armistice
 2042-12-25,True,Noël
 2043-01-01,True,Jour de l'an
-2043-03-29,True,Pâques
 2043-03-30,True,Lundi de Pâques
 2043-05-01,True,Fête du travail
 2043-05-07,True,Ascension
@@ -1123,7 +1030,6 @@ date,est_jour_ferie,nom_jour_ferie
 2043-11-11,True,Armistice
 2043-12-25,True,Noël
 2044-01-01,True,Jour de l'an
-2044-04-17,True,Pâques
 2044-04-18,True,Lundi de Pâques
 2044-05-01,True,Fête du travail
 2044-05-08,True,Victoire des alliés
@@ -1135,7 +1041,6 @@ date,est_jour_ferie,nom_jour_ferie
 2044-11-11,True,Armistice
 2044-12-25,True,Noël
 2045-01-01,True,Jour de l'an
-2045-04-09,True,Pâques
 2045-04-10,True,Lundi de Pâques
 2045-05-01,True,Fête du travail
 2045-05-08,True,Victoire des alliés
@@ -1147,7 +1052,6 @@ date,est_jour_ferie,nom_jour_ferie
 2045-11-11,True,Armistice
 2045-12-25,True,Noël
 2046-01-01,True,Jour de l'an
-2046-03-25,True,Pâques
 2046-03-26,True,Lundi de Pâques
 2046-05-01,True,Fête du travail
 2046-05-03,True,Ascension
@@ -1159,7 +1063,6 @@ date,est_jour_ferie,nom_jour_ferie
 2046-11-11,True,Armistice
 2046-12-25,True,Noël
 2047-01-01,True,Jour de l'an
-2047-04-14,True,Pâques
 2047-04-15,True,Lundi de Pâques
 2047-05-01,True,Fête du travail
 2047-05-08,True,Victoire des alliés
@@ -1171,7 +1074,6 @@ date,est_jour_ferie,nom_jour_ferie
 2047-11-11,True,Armistice
 2047-12-25,True,Noël
 2048-01-01,True,Jour de l'an
-2048-04-05,True,Pâques
 2048-04-06,True,Lundi de Pâques
 2048-05-01,True,Fête du travail
 2048-05-08,True,Victoire des alliés
@@ -1194,7 +1096,6 @@ date,est_jour_ferie,nom_jour_ferie
 2049-11-11,True,Armistice
 2049-12-25,True,Noël
 2050-01-01,True,Jour de l'an
-2050-04-10,True,Pâques
 2050-04-11,True,Lundi de Pâques
 2050-05-01,True,Fête du travail
 2050-05-08,True,Victoire des alliés
