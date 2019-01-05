@@ -4,7 +4,7 @@ date,est_jour_ferie,nom_jour_ferie
 1950-05-01,True,Fête du travail
 1950-05-08,True,Victoire des alliés
 1950-05-18,True,Ascension
-1950-05-29,True,Pentecôte
+1950-05-29,True,Lundi de Pentecôte
 1950-07-14,True,Fête Nationale
 1950-08-15,True,Assomption
 1950-11-01,True,Toussaint
@@ -15,7 +15,7 @@ date,est_jour_ferie,nom_jour_ferie
 1951-05-01,True,Fête du travail
 1951-05-03,True,Ascension
 1951-05-08,True,Victoire des alliés
-1951-05-14,True,Pentecôte
+1951-05-14,True,Lundi de Pentecôte
 1951-07-14,True,Fête Nationale
 1951-08-15,True,Assomption
 1951-11-01,True,Toussaint
@@ -26,7 +26,7 @@ date,est_jour_ferie,nom_jour_ferie
 1952-05-01,True,Fête du travail
 1952-05-08,True,Victoire des alliés
 1952-05-22,True,Ascension
-1952-06-02,True,Pentecôte
+1952-06-02,True,Lundi de Pentecôte
 1952-07-14,True,Fête Nationale
 1952-08-15,True,Assomption
 1952-11-01,True,Toussaint
@@ -37,7 +37,7 @@ date,est_jour_ferie,nom_jour_ferie
 1953-05-01,True,Fête du travail
 1953-05-08,True,Victoire des alliés
 1953-05-14,True,Ascension
-1953-05-25,True,Pentecôte
+1953-05-25,True,Lundi de Pentecôte
 1953-07-14,True,Fête Nationale
 1953-08-15,True,Assomption
 1953-11-01,True,Toussaint
@@ -48,7 +48,7 @@ date,est_jour_ferie,nom_jour_ferie
 1954-05-02,True,Lundi de Pâques
 1954-05-08,True,Victoire des alliés
 1954-06-09,True,Ascension
-1954-06-20,True,Pentecôte
+1954-06-20,True,Lundi de Pentecôte
 1954-07-14,True,Fête Nationale
 1954-08-15,True,Assomption
 1954-11-01,True,Toussaint
@@ -59,7 +59,7 @@ date,est_jour_ferie,nom_jour_ferie
 1955-05-01,True,Fête du travail
 1955-05-08,True,Victoire des alliés
 1955-05-19,True,Ascension
-1955-05-30,True,Pentecôte
+1955-05-30,True,Lundi de Pentecôte
 1955-07-14,True,Fête Nationale
 1955-08-15,True,Assomption
 1955-11-01,True,Toussaint
@@ -70,7 +70,7 @@ date,est_jour_ferie,nom_jour_ferie
 1956-05-01,True,Fête du travail
 1956-05-08,True,Victoire des alliés
 1956-05-10,True,Ascension
-1956-05-21,True,Pentecôte
+1956-05-21,True,Lundi de Pentecôte
 1956-07-14,True,Fête Nationale
 1956-08-15,True,Assomption
 1956-11-01,True,Toussaint
@@ -81,7 +81,7 @@ date,est_jour_ferie,nom_jour_ferie
 1957-05-01,True,Fête du travail
 1957-05-08,True,Victoire des alliés
 1957-05-30,True,Ascension
-1957-06-10,True,Pentecôte
+1957-06-10,True,Lundi de Pentecôte
 1957-07-14,True,Fête Nationale
 1957-08-15,True,Assomption
 1957-11-01,True,Toussaint
@@ -92,7 +92,7 @@ date,est_jour_ferie,nom_jour_ferie
 1958-05-01,True,Fête du travail
 1958-05-08,True,Victoire des alliés
 1958-05-15,True,Ascension
-1958-05-26,True,Pentecôte
+1958-05-26,True,Lundi de Pentecôte
 1958-07-14,True,Fête Nationale
 1958-08-15,True,Assomption
 1958-11-01,True,Toussaint
@@ -103,7 +103,7 @@ date,est_jour_ferie,nom_jour_ferie
 1959-05-01,True,Fête du travail
 1959-05-07,True,Ascension
 1959-05-08,True,Victoire des alliés
-1959-05-18,True,Pentecôte
+1959-05-18,True,Lundi de Pentecôte
 1959-07-14,True,Fête Nationale
 1959-08-15,True,Assomption
 1959-11-01,True,Toussaint
@@ -114,7 +114,7 @@ date,est_jour_ferie,nom_jour_ferie
 1960-05-01,True,Fête du travail
 1960-05-08,True,Victoire des alliés
 1960-05-26,True,Ascension
-1960-06-06,True,Pentecôte
+1960-06-06,True,Lundi de Pentecôte
 1960-07-14,True,Fête Nationale
 1960-08-15,True,Assomption
 1960-11-01,True,Toussaint
@@ -125,7 +125,7 @@ date,est_jour_ferie,nom_jour_ferie
 1961-05-01,True,Fête du travail
 1961-05-08,True,Victoire des alliés
 1961-05-11,True,Ascension
-1961-05-22,True,Pentecôte
+1961-05-22,True,Lundi de Pentecôte
 1961-07-14,True,Fête Nationale
 1961-08-15,True,Assomption
 1961-11-01,True,Toussaint
@@ -136,7 +136,7 @@ date,est_jour_ferie,nom_jour_ferie
 1962-05-01,True,Fête du travail
 1962-05-08,True,Victoire des alliés
 1962-05-31,True,Ascension
-1962-06-11,True,Pentecôte
+1962-06-11,True,Lundi de Pentecôte
 1962-07-14,True,Fête Nationale
 1962-08-15,True,Assomption
 1962-11-01,True,Toussaint
@@ -147,7 +147,7 @@ date,est_jour_ferie,nom_jour_ferie
 1963-05-01,True,Fête du travail
 1963-05-08,True,Victoire des alliés
 1963-05-23,True,Ascension
-1963-06-03,True,Pentecôte
+1963-06-03,True,Lundi de Pentecôte
 1963-07-14,True,Fête Nationale
 1963-08-15,True,Assomption
 1963-11-01,True,Toussaint
@@ -158,7 +158,7 @@ date,est_jour_ferie,nom_jour_ferie
 1964-05-01,True,Fête du travail
 1964-05-07,True,Ascension
 1964-05-08,True,Victoire des alliés
-1964-05-18,True,Pentecôte
+1964-05-18,True,Lundi de Pentecôte
 1964-07-14,True,Fête Nationale
 1964-08-15,True,Assomption
 1964-11-01,True,Toussaint
@@ -169,7 +169,7 @@ date,est_jour_ferie,nom_jour_ferie
 1965-05-01,True,Fête du travail
 1965-05-08,True,Victoire des alliés
 1965-05-27,True,Ascension
-1965-06-07,True,Pentecôte
+1965-06-07,True,Lundi de Pentecôte
 1965-07-14,True,Fête Nationale
 1965-08-15,True,Assomption
 1965-11-01,True,Toussaint
@@ -180,7 +180,7 @@ date,est_jour_ferie,nom_jour_ferie
 1966-05-01,True,Fête du travail
 1966-05-08,True,Victoire des alliés
 1966-05-19,True,Ascension
-1966-05-30,True,Pentecôte
+1966-05-30,True,Lundi de Pentecôte
 1966-07-14,True,Fête Nationale
 1966-08-15,True,Assomption
 1966-11-01,True,Toussaint
@@ -191,7 +191,7 @@ date,est_jour_ferie,nom_jour_ferie
 1967-05-01,True,Fête du travail
 1967-05-04,True,Ascension
 1967-05-08,True,Victoire des alliés
-1967-05-15,True,Pentecôte
+1967-05-15,True,Lundi de Pentecôte
 1967-07-14,True,Fête Nationale
 1967-08-15,True,Assomption
 1967-11-01,True,Toussaint
@@ -202,7 +202,7 @@ date,est_jour_ferie,nom_jour_ferie
 1968-05-01,True,Fête du travail
 1968-05-08,True,Victoire des alliés
 1968-05-23,True,Ascension
-1968-06-03,True,Pentecôte
+1968-06-03,True,Lundi de Pentecôte
 1968-07-14,True,Fête Nationale
 1968-08-15,True,Assomption
 1968-11-01,True,Toussaint
@@ -213,7 +213,7 @@ date,est_jour_ferie,nom_jour_ferie
 1969-05-01,True,Fête du travail
 1969-05-08,True,Victoire des alliés
 1969-05-15,True,Ascension
-1969-05-26,True,Pentecôte
+1969-05-26,True,Lundi de Pentecôte
 1969-07-14,True,Fête Nationale
 1969-08-15,True,Assomption
 1969-11-01,True,Toussaint
@@ -224,7 +224,7 @@ date,est_jour_ferie,nom_jour_ferie
 1970-05-01,True,Fête du travail
 1970-05-07,True,Ascension
 1970-05-08,True,Victoire des alliés
-1970-05-18,True,Pentecôte
+1970-05-18,True,Lundi de Pentecôte
 1970-07-14,True,Fête Nationale
 1970-08-15,True,Assomption
 1970-11-01,True,Toussaint
@@ -235,7 +235,7 @@ date,est_jour_ferie,nom_jour_ferie
 1971-05-01,True,Fête du travail
 1971-05-08,True,Victoire des alliés
 1971-05-20,True,Ascension
-1971-05-31,True,Pentecôte
+1971-05-31,True,Lundi de Pentecôte
 1971-07-14,True,Fête Nationale
 1971-08-15,True,Assomption
 1971-11-01,True,Toussaint
@@ -246,7 +246,7 @@ date,est_jour_ferie,nom_jour_ferie
 1972-05-01,True,Fête du travail
 1972-05-08,True,Victoire des alliés
 1972-05-11,True,Ascension
-1972-05-22,True,Pentecôte
+1972-05-22,True,Lundi de Pentecôte
 1972-07-14,True,Fête Nationale
 1972-08-15,True,Assomption
 1972-11-01,True,Toussaint
@@ -257,7 +257,7 @@ date,est_jour_ferie,nom_jour_ferie
 1973-05-01,True,Fête du travail
 1973-05-08,True,Victoire des alliés
 1973-05-31,True,Ascension
-1973-06-11,True,Pentecôte
+1973-06-11,True,Lundi de Pentecôte
 1973-07-14,True,Fête Nationale
 1973-08-15,True,Assomption
 1973-11-01,True,Toussaint
@@ -268,7 +268,7 @@ date,est_jour_ferie,nom_jour_ferie
 1974-05-01,True,Fête du travail
 1974-05-08,True,Victoire des alliés
 1974-05-23,True,Ascension
-1974-06-03,True,Pentecôte
+1974-06-03,True,Lundi de Pentecôte
 1974-07-14,True,Fête Nationale
 1974-08-15,True,Assomption
 1974-11-01,True,Toussaint
@@ -278,7 +278,7 @@ date,est_jour_ferie,nom_jour_ferie
 1975-03-31,True,Lundi de Pâques
 1975-05-01,True,Fête du travail
 1975-05-08,True,Victoire des alliés
-1975-05-19,True,Pentecôte
+1975-05-19,True,Lundi de Pentecôte
 1975-07-14,True,Fête Nationale
 1975-08-15,True,Assomption
 1975-11-01,True,Toussaint
@@ -289,7 +289,7 @@ date,est_jour_ferie,nom_jour_ferie
 1976-05-01,True,Fête du travail
 1976-05-08,True,Victoire des alliés
 1976-05-27,True,Ascension
-1976-06-07,True,Pentecôte
+1976-06-07,True,Lundi de Pentecôte
 1976-07-14,True,Fête Nationale
 1976-08-15,True,Assomption
 1976-11-01,True,Toussaint
@@ -300,7 +300,7 @@ date,est_jour_ferie,nom_jour_ferie
 1977-05-01,True,Fête du travail
 1977-05-08,True,Victoire des alliés
 1977-05-19,True,Ascension
-1977-05-30,True,Pentecôte
+1977-05-30,True,Lundi de Pentecôte
 1977-07-14,True,Fête Nationale
 1977-08-15,True,Assomption
 1977-11-01,True,Toussaint
@@ -311,7 +311,7 @@ date,est_jour_ferie,nom_jour_ferie
 1978-05-01,True,Fête du travail
 1978-05-04,True,Ascension
 1978-05-08,True,Victoire des alliés
-1978-05-15,True,Pentecôte
+1978-05-15,True,Lundi de Pentecôte
 1978-07-14,True,Fête Nationale
 1978-08-15,True,Assomption
 1978-11-01,True,Toussaint
@@ -322,7 +322,7 @@ date,est_jour_ferie,nom_jour_ferie
 1979-05-01,True,Fête du travail
 1979-05-08,True,Victoire des alliés
 1979-05-24,True,Ascension
-1979-06-04,True,Pentecôte
+1979-06-04,True,Lundi de Pentecôte
 1979-07-14,True,Fête Nationale
 1979-08-15,True,Assomption
 1979-11-01,True,Toussaint
@@ -333,7 +333,7 @@ date,est_jour_ferie,nom_jour_ferie
 1980-05-01,True,Fête du travail
 1980-05-08,True,Victoire des alliés
 1980-05-15,True,Ascension
-1980-05-26,True,Pentecôte
+1980-05-26,True,Lundi de Pentecôte
 1980-07-14,True,Fête Nationale
 1980-08-15,True,Assomption
 1980-11-01,True,Toussaint
@@ -344,7 +344,7 @@ date,est_jour_ferie,nom_jour_ferie
 1981-05-03,True,Lundi de Pâques
 1981-05-08,True,Victoire des alliés
 1981-06-10,True,Ascension
-1981-06-21,True,Pentecôte
+1981-06-21,True,Lundi de Pentecôte
 1981-07-14,True,Fête Nationale
 1981-08-15,True,Assomption
 1981-11-01,True,Toussaint
@@ -355,7 +355,7 @@ date,est_jour_ferie,nom_jour_ferie
 1982-05-01,True,Fête du travail
 1982-05-08,True,Victoire des alliés
 1982-05-20,True,Ascension
-1982-05-31,True,Pentecôte
+1982-05-31,True,Lundi de Pentecôte
 1982-07-14,True,Fête Nationale
 1982-08-15,True,Assomption
 1982-11-01,True,Toussaint
@@ -366,7 +366,7 @@ date,est_jour_ferie,nom_jour_ferie
 1983-05-01,True,Fête du travail
 1983-05-08,True,Victoire des alliés
 1983-05-12,True,Ascension
-1983-05-23,True,Pentecôte
+1983-05-23,True,Lundi de Pentecôte
 1983-07-14,True,Fête Nationale
 1983-08-15,True,Assomption
 1983-11-01,True,Toussaint
@@ -377,7 +377,7 @@ date,est_jour_ferie,nom_jour_ferie
 1984-05-01,True,Fête du travail
 1984-05-08,True,Victoire des alliés
 1984-05-31,True,Ascension
-1984-06-11,True,Pentecôte
+1984-06-11,True,Lundi de Pentecôte
 1984-07-14,True,Fête Nationale
 1984-08-15,True,Assomption
 1984-11-01,True,Toussaint
@@ -388,7 +388,7 @@ date,est_jour_ferie,nom_jour_ferie
 1985-05-01,True,Fête du travail
 1985-05-08,True,Victoire des alliés
 1985-05-16,True,Ascension
-1985-05-27,True,Pentecôte
+1985-05-27,True,Lundi de Pentecôte
 1985-07-14,True,Fête Nationale
 1985-08-15,True,Assomption
 1985-11-01,True,Toussaint
@@ -398,7 +398,7 @@ date,est_jour_ferie,nom_jour_ferie
 1986-03-31,True,Lundi de Pâques
 1986-05-01,True,Fête du travail
 1986-05-08,True,Victoire des alliés
-1986-05-19,True,Pentecôte
+1986-05-19,True,Lundi de Pentecôte
 1986-07-14,True,Fête Nationale
 1986-08-15,True,Assomption
 1986-11-01,True,Toussaint
@@ -409,7 +409,7 @@ date,est_jour_ferie,nom_jour_ferie
 1987-05-01,True,Fête du travail
 1987-05-08,True,Victoire des alliés
 1987-05-28,True,Ascension
-1987-06-08,True,Pentecôte
+1987-06-08,True,Lundi de Pentecôte
 1987-07-14,True,Fête Nationale
 1987-08-15,True,Assomption
 1987-11-01,True,Toussaint
@@ -420,7 +420,7 @@ date,est_jour_ferie,nom_jour_ferie
 1988-05-01,True,Fête du travail
 1988-05-08,True,Victoire des alliés
 1988-05-12,True,Ascension
-1988-05-23,True,Pentecôte
+1988-05-23,True,Lundi de Pentecôte
 1988-07-14,True,Fête Nationale
 1988-08-15,True,Assomption
 1988-11-01,True,Toussaint
@@ -431,7 +431,7 @@ date,est_jour_ferie,nom_jour_ferie
 1989-05-01,True,Fête du travail
 1989-05-04,True,Ascension
 1989-05-08,True,Victoire des alliés
-1989-05-15,True,Pentecôte
+1989-05-15,True,Lundi de Pentecôte
 1989-07-14,True,Fête Nationale
 1989-08-15,True,Assomption
 1989-11-01,True,Toussaint
@@ -442,7 +442,7 @@ date,est_jour_ferie,nom_jour_ferie
 1990-05-01,True,Fête du travail
 1990-05-08,True,Victoire des alliés
 1990-05-24,True,Ascension
-1990-06-04,True,Pentecôte
+1990-06-04,True,Lundi de Pentecôte
 1990-07-14,True,Fête Nationale
 1990-08-15,True,Assomption
 1990-11-01,True,Toussaint
@@ -453,7 +453,7 @@ date,est_jour_ferie,nom_jour_ferie
 1991-05-01,True,Fête du travail
 1991-05-08,True,Victoire des alliés
 1991-05-09,True,Ascension
-1991-05-20,True,Pentecôte
+1991-05-20,True,Lundi de Pentecôte
 1991-07-14,True,Fête Nationale
 1991-08-15,True,Assomption
 1991-11-01,True,Toussaint
@@ -464,7 +464,7 @@ date,est_jour_ferie,nom_jour_ferie
 1992-05-01,True,Fête du travail
 1992-05-08,True,Victoire des alliés
 1992-05-28,True,Ascension
-1992-06-08,True,Pentecôte
+1992-06-08,True,Lundi de Pentecôte
 1992-07-14,True,Fête Nationale
 1992-08-15,True,Assomption
 1992-11-01,True,Toussaint
@@ -475,7 +475,7 @@ date,est_jour_ferie,nom_jour_ferie
 1993-05-01,True,Fête du travail
 1993-05-08,True,Victoire des alliés
 1993-05-20,True,Ascension
-1993-05-31,True,Pentecôte
+1993-05-31,True,Lundi de Pentecôte
 1993-07-14,True,Fête Nationale
 1993-08-15,True,Assomption
 1993-11-01,True,Toussaint
@@ -486,7 +486,7 @@ date,est_jour_ferie,nom_jour_ferie
 1994-05-01,True,Fête du travail
 1994-05-08,True,Victoire des alliés
 1994-05-12,True,Ascension
-1994-05-23,True,Pentecôte
+1994-05-23,True,Lundi de Pentecôte
 1994-07-14,True,Fête Nationale
 1994-08-15,True,Assomption
 1994-11-01,True,Toussaint
@@ -497,7 +497,7 @@ date,est_jour_ferie,nom_jour_ferie
 1995-05-01,True,Fête du travail
 1995-05-08,True,Victoire des alliés
 1995-05-25,True,Ascension
-1995-06-05,True,Pentecôte
+1995-06-05,True,Lundi de Pentecôte
 1995-07-14,True,Fête Nationale
 1995-08-15,True,Assomption
 1995-11-01,True,Toussaint
@@ -508,7 +508,7 @@ date,est_jour_ferie,nom_jour_ferie
 1996-05-01,True,Fête du travail
 1996-05-08,True,Victoire des alliés
 1996-05-16,True,Ascension
-1996-05-27,True,Pentecôte
+1996-05-27,True,Lundi de Pentecôte
 1996-07-14,True,Fête Nationale
 1996-08-15,True,Assomption
 1996-11-01,True,Toussaint
@@ -518,7 +518,7 @@ date,est_jour_ferie,nom_jour_ferie
 1997-03-31,True,Lundi de Pâques
 1997-05-01,True,Fête du travail
 1997-05-08,True,Victoire des alliés
-1997-05-19,True,Pentecôte
+1997-05-19,True,Lundi de Pentecôte
 1997-07-14,True,Fête Nationale
 1997-08-15,True,Assomption
 1997-11-01,True,Toussaint
@@ -529,7 +529,7 @@ date,est_jour_ferie,nom_jour_ferie
 1998-05-01,True,Fête du travail
 1998-05-08,True,Victoire des alliés
 1998-05-21,True,Ascension
-1998-06-01,True,Pentecôte
+1998-06-01,True,Lundi de Pentecôte
 1998-07-14,True,Fête Nationale
 1998-08-15,True,Assomption
 1998-11-01,True,Toussaint
@@ -540,7 +540,7 @@ date,est_jour_ferie,nom_jour_ferie
 1999-05-01,True,Fête du travail
 1999-05-08,True,Victoire des alliés
 1999-05-13,True,Ascension
-1999-05-24,True,Pentecôte
+1999-05-24,True,Lundi de Pentecôte
 1999-07-14,True,Fête Nationale
 1999-08-15,True,Assomption
 1999-11-01,True,Toussaint
@@ -551,7 +551,7 @@ date,est_jour_ferie,nom_jour_ferie
 2000-05-01,True,Fête du travail
 2000-05-08,True,Victoire des alliés
 2000-06-01,True,Ascension
-2000-06-12,True,Pentecôte
+2000-06-12,True,Lundi de Pentecôte
 2000-07-14,True,Fête Nationale
 2000-08-15,True,Assomption
 2000-11-01,True,Toussaint
@@ -562,7 +562,7 @@ date,est_jour_ferie,nom_jour_ferie
 2001-05-01,True,Fête du travail
 2001-05-08,True,Victoire des alliés
 2001-05-24,True,Ascension
-2001-06-04,True,Pentecôte
+2001-06-04,True,Lundi de Pentecôte
 2001-07-14,True,Fête Nationale
 2001-08-15,True,Assomption
 2001-11-01,True,Toussaint
@@ -573,7 +573,7 @@ date,est_jour_ferie,nom_jour_ferie
 2002-05-01,True,Fête du travail
 2002-05-08,True,Victoire des alliés
 2002-05-09,True,Ascension
-2002-05-20,True,Pentecôte
+2002-05-20,True,Lundi de Pentecôte
 2002-07-14,True,Fête Nationale
 2002-08-15,True,Assomption
 2002-11-01,True,Toussaint
@@ -584,7 +584,7 @@ date,est_jour_ferie,nom_jour_ferie
 2003-05-01,True,Fête du travail
 2003-05-08,True,Victoire des alliés
 2003-05-29,True,Ascension
-2003-06-09,True,Pentecôte
+2003-06-09,True,Lundi de Pentecôte
 2003-07-14,True,Fête Nationale
 2003-08-15,True,Assomption
 2003-11-01,True,Toussaint
@@ -595,7 +595,7 @@ date,est_jour_ferie,nom_jour_ferie
 2004-05-01,True,Fête du travail
 2004-05-08,True,Victoire des alliés
 2004-05-20,True,Ascension
-2004-05-31,True,Pentecôte
+2004-05-31,True,Lundi de Pentecôte
 2004-07-14,True,Fête Nationale
 2004-08-15,True,Assomption
 2004-11-01,True,Toussaint
@@ -606,7 +606,7 @@ date,est_jour_ferie,nom_jour_ferie
 2005-05-01,True,Fête du travail
 2005-05-05,True,Ascension
 2005-05-08,True,Victoire des alliés
-2005-05-16,True,Pentecôte
+2005-05-16,True,Lundi de Pentecôte
 2005-07-14,True,Fête Nationale
 2005-08-15,True,Assomption
 2005-11-01,True,Toussaint
@@ -617,7 +617,7 @@ date,est_jour_ferie,nom_jour_ferie
 2006-05-01,True,Fête du travail
 2006-05-08,True,Victoire des alliés
 2006-05-25,True,Ascension
-2006-06-05,True,Pentecôte
+2006-06-05,True,Lundi de Pentecôte
 2006-07-14,True,Fête Nationale
 2006-08-15,True,Assomption
 2006-11-01,True,Toussaint
@@ -628,7 +628,7 @@ date,est_jour_ferie,nom_jour_ferie
 2007-05-01,True,Fête du travail
 2007-05-08,True,Victoire des alliés
 2007-05-17,True,Ascension
-2007-05-28,True,Pentecôte
+2007-05-28,True,Lundi de Pentecôte
 2007-07-14,True,Fête Nationale
 2007-08-15,True,Assomption
 2007-11-01,True,Toussaint
@@ -638,7 +638,7 @@ date,est_jour_ferie,nom_jour_ferie
 2008-03-24,True,Lundi de Pâques
 2008-05-01,True,Fête du travail
 2008-05-08,True,Victoire des alliés
-2008-05-12,True,Pentecôte
+2008-05-12,True,Lundi de Pentecôte
 2008-07-14,True,Fête Nationale
 2008-08-15,True,Assomption
 2008-11-01,True,Toussaint
@@ -649,7 +649,7 @@ date,est_jour_ferie,nom_jour_ferie
 2009-05-01,True,Fête du travail
 2009-05-08,True,Victoire des alliés
 2009-05-21,True,Ascension
-2009-06-01,True,Pentecôte
+2009-06-01,True,Lundi de Pentecôte
 2009-07-14,True,Fête Nationale
 2009-08-15,True,Assomption
 2009-11-01,True,Toussaint
@@ -660,7 +660,7 @@ date,est_jour_ferie,nom_jour_ferie
 2010-05-01,True,Fête du travail
 2010-05-08,True,Victoire des alliés
 2010-05-13,True,Ascension
-2010-05-24,True,Pentecôte
+2010-05-24,True,Lundi de Pentecôte
 2010-07-14,True,Fête Nationale
 2010-08-15,True,Assomption
 2010-11-01,True,Toussaint
@@ -671,7 +671,7 @@ date,est_jour_ferie,nom_jour_ferie
 2011-05-01,True,Fête du travail
 2011-05-08,True,Victoire des alliés
 2011-06-02,True,Ascension
-2011-06-13,True,Pentecôte
+2011-06-13,True,Lundi de Pentecôte
 2011-07-14,True,Fête Nationale
 2011-08-15,True,Assomption
 2011-11-01,True,Toussaint
@@ -682,7 +682,7 @@ date,est_jour_ferie,nom_jour_ferie
 2012-05-01,True,Fête du travail
 2012-05-08,True,Victoire des alliés
 2012-05-17,True,Ascension
-2012-05-28,True,Pentecôte
+2012-05-28,True,Lundi de Pentecôte
 2012-07-14,True,Fête Nationale
 2012-08-15,True,Assomption
 2012-11-01,True,Toussaint
@@ -693,7 +693,7 @@ date,est_jour_ferie,nom_jour_ferie
 2013-05-01,True,Fête du travail
 2013-05-08,True,Victoire des alliés
 2013-05-09,True,Ascension
-2013-05-20,True,Pentecôte
+2013-05-20,True,Lundi de Pentecôte
 2013-07-14,True,Fête Nationale
 2013-08-15,True,Assomption
 2013-11-01,True,Toussaint
@@ -704,7 +704,7 @@ date,est_jour_ferie,nom_jour_ferie
 2014-05-01,True,Fête du travail
 2014-05-08,True,Victoire des alliés
 2014-05-29,True,Ascension
-2014-06-09,True,Pentecôte
+2014-06-09,True,Lundi de Pentecôte
 2014-07-14,True,Fête Nationale
 2014-08-15,True,Assomption
 2014-11-01,True,Toussaint
@@ -715,7 +715,7 @@ date,est_jour_ferie,nom_jour_ferie
 2015-05-01,True,Fête du travail
 2015-05-08,True,Victoire des alliés
 2015-05-14,True,Ascension
-2015-05-25,True,Pentecôte
+2015-05-25,True,Lundi de Pentecôte
 2015-07-14,True,Fête Nationale
 2015-08-15,True,Assomption
 2015-11-01,True,Toussaint
@@ -726,7 +726,7 @@ date,est_jour_ferie,nom_jour_ferie
 2016-05-01,True,Fête du travail
 2016-05-05,True,Ascension
 2016-05-08,True,Victoire des alliés
-2016-05-16,True,Pentecôte
+2016-05-16,True,Lundi de Pentecôte
 2016-07-14,True,Fête Nationale
 2016-08-15,True,Assomption
 2016-11-01,True,Toussaint
@@ -737,7 +737,7 @@ date,est_jour_ferie,nom_jour_ferie
 2017-05-01,True,Fête du travail
 2017-05-08,True,Victoire des alliés
 2017-05-25,True,Ascension
-2017-06-05,True,Pentecôte
+2017-06-05,True,Lundi de Pentecôte
 2017-07-14,True,Fête Nationale
 2017-08-15,True,Assomption
 2017-11-01,True,Toussaint
@@ -748,7 +748,7 @@ date,est_jour_ferie,nom_jour_ferie
 2018-05-01,True,Fête du travail
 2018-05-08,True,Victoire des alliés
 2018-05-10,True,Ascension
-2018-05-21,True,Pentecôte
+2018-05-21,True,Lundi de Pentecôte
 2018-07-14,True,Fête Nationale
 2018-08-15,True,Assomption
 2018-11-01,True,Toussaint
@@ -759,7 +759,7 @@ date,est_jour_ferie,nom_jour_ferie
 2019-05-01,True,Fête du travail
 2019-05-08,True,Victoire des alliés
 2019-05-30,True,Ascension
-2019-06-10,True,Pentecôte
+2019-06-10,True,Lundi de Pentecôte
 2019-07-14,True,Fête Nationale
 2019-08-15,True,Assomption
 2019-11-01,True,Toussaint
@@ -770,7 +770,7 @@ date,est_jour_ferie,nom_jour_ferie
 2020-05-01,True,Fête du travail
 2020-05-08,True,Victoire des alliés
 2020-05-21,True,Ascension
-2020-06-01,True,Pentecôte
+2020-06-01,True,Lundi de Pentecôte
 2020-07-14,True,Fête Nationale
 2020-08-15,True,Assomption
 2020-11-01,True,Toussaint
@@ -781,7 +781,7 @@ date,est_jour_ferie,nom_jour_ferie
 2021-05-01,True,Fête du travail
 2021-05-08,True,Victoire des alliés
 2021-05-13,True,Ascension
-2021-05-24,True,Pentecôte
+2021-05-24,True,Lundi de Pentecôte
 2021-07-14,True,Fête Nationale
 2021-08-15,True,Assomption
 2021-11-01,True,Toussaint
@@ -792,7 +792,7 @@ date,est_jour_ferie,nom_jour_ferie
 2022-05-01,True,Fête du travail
 2022-05-08,True,Victoire des alliés
 2022-05-26,True,Ascension
-2022-06-06,True,Pentecôte
+2022-06-06,True,Lundi de Pentecôte
 2022-07-14,True,Fête Nationale
 2022-08-15,True,Assomption
 2022-11-01,True,Toussaint
@@ -803,7 +803,7 @@ date,est_jour_ferie,nom_jour_ferie
 2023-05-01,True,Fête du travail
 2023-05-08,True,Victoire des alliés
 2023-05-18,True,Ascension
-2023-05-29,True,Pentecôte
+2023-05-29,True,Lundi de Pentecôte
 2023-07-14,True,Fête Nationale
 2023-08-15,True,Assomption
 2023-11-01,True,Toussaint
@@ -814,7 +814,7 @@ date,est_jour_ferie,nom_jour_ferie
 2024-05-01,True,Fête du travail
 2024-05-08,True,Victoire des alliés
 2024-05-09,True,Ascension
-2024-05-20,True,Pentecôte
+2024-05-20,True,Lundi de Pentecôte
 2024-07-14,True,Fête Nationale
 2024-08-15,True,Assomption
 2024-11-01,True,Toussaint
@@ -825,7 +825,7 @@ date,est_jour_ferie,nom_jour_ferie
 2025-05-01,True,Fête du travail
 2025-05-08,True,Victoire des alliés
 2025-05-29,True,Ascension
-2025-06-09,True,Pentecôte
+2025-06-09,True,Lundi de Pentecôte
 2025-07-14,True,Fête Nationale
 2025-08-15,True,Assomption
 2025-11-01,True,Toussaint
@@ -836,7 +836,7 @@ date,est_jour_ferie,nom_jour_ferie
 2026-05-01,True,Fête du travail
 2026-05-08,True,Victoire des alliés
 2026-05-14,True,Ascension
-2026-05-25,True,Pentecôte
+2026-05-25,True,Lundi de Pentecôte
 2026-07-14,True,Fête Nationale
 2026-08-15,True,Assomption
 2026-11-01,True,Toussaint
@@ -847,7 +847,7 @@ date,est_jour_ferie,nom_jour_ferie
 2027-05-01,True,Fête du travail
 2027-05-06,True,Ascension
 2027-05-08,True,Victoire des alliés
-2027-05-17,True,Pentecôte
+2027-05-17,True,Lundi de Pentecôte
 2027-07-14,True,Fête Nationale
 2027-08-15,True,Assomption
 2027-11-01,True,Toussaint
@@ -858,7 +858,7 @@ date,est_jour_ferie,nom_jour_ferie
 2028-05-01,True,Fête du travail
 2028-05-08,True,Victoire des alliés
 2028-05-25,True,Ascension
-2028-06-05,True,Pentecôte
+2028-06-05,True,Lundi de Pentecôte
 2028-07-14,True,Fête Nationale
 2028-08-15,True,Assomption
 2028-11-01,True,Toussaint
@@ -869,7 +869,7 @@ date,est_jour_ferie,nom_jour_ferie
 2029-05-01,True,Fête du travail
 2029-05-08,True,Victoire des alliés
 2029-05-10,True,Ascension
-2029-05-21,True,Pentecôte
+2029-05-21,True,Lundi de Pentecôte
 2029-07-14,True,Fête Nationale
 2029-08-15,True,Assomption
 2029-11-01,True,Toussaint
@@ -880,7 +880,7 @@ date,est_jour_ferie,nom_jour_ferie
 2030-05-01,True,Fête du travail
 2030-05-08,True,Victoire des alliés
 2030-05-30,True,Ascension
-2030-06-10,True,Pentecôte
+2030-06-10,True,Lundi de Pentecôte
 2030-07-14,True,Fête Nationale
 2030-08-15,True,Assomption
 2030-11-01,True,Toussaint
@@ -891,7 +891,7 @@ date,est_jour_ferie,nom_jour_ferie
 2031-05-01,True,Fête du travail
 2031-05-08,True,Victoire des alliés
 2031-05-22,True,Ascension
-2031-06-02,True,Pentecôte
+2031-06-02,True,Lundi de Pentecôte
 2031-07-14,True,Fête Nationale
 2031-08-15,True,Assomption
 2031-11-01,True,Toussaint
@@ -902,7 +902,7 @@ date,est_jour_ferie,nom_jour_ferie
 2032-05-01,True,Fête du travail
 2032-05-06,True,Ascension
 2032-05-08,True,Victoire des alliés
-2032-05-17,True,Pentecôte
+2032-05-17,True,Lundi de Pentecôte
 2032-07-14,True,Fête Nationale
 2032-08-15,True,Assomption
 2032-11-01,True,Toussaint
@@ -913,7 +913,7 @@ date,est_jour_ferie,nom_jour_ferie
 2033-05-01,True,Fête du travail
 2033-05-08,True,Victoire des alliés
 2033-05-26,True,Ascension
-2033-06-06,True,Pentecôte
+2033-06-06,True,Lundi de Pentecôte
 2033-07-14,True,Fête Nationale
 2033-08-15,True,Assomption
 2033-11-01,True,Toussaint
@@ -924,7 +924,7 @@ date,est_jour_ferie,nom_jour_ferie
 2034-05-01,True,Fête du travail
 2034-05-08,True,Victoire des alliés
 2034-05-18,True,Ascension
-2034-05-29,True,Pentecôte
+2034-05-29,True,Lundi de Pentecôte
 2034-07-14,True,Fête Nationale
 2034-08-15,True,Assomption
 2034-11-01,True,Toussaint
@@ -935,7 +935,7 @@ date,est_jour_ferie,nom_jour_ferie
 2035-05-01,True,Fête du travail
 2035-05-03,True,Ascension
 2035-05-08,True,Victoire des alliés
-2035-05-14,True,Pentecôte
+2035-05-14,True,Lundi de Pentecôte
 2035-07-14,True,Fête Nationale
 2035-08-15,True,Assomption
 2035-11-01,True,Toussaint
@@ -946,7 +946,7 @@ date,est_jour_ferie,nom_jour_ferie
 2036-05-01,True,Fête du travail
 2036-05-08,True,Victoire des alliés
 2036-05-22,True,Ascension
-2036-06-02,True,Pentecôte
+2036-06-02,True,Lundi de Pentecôte
 2036-07-14,True,Fête Nationale
 2036-08-15,True,Assomption
 2036-11-01,True,Toussaint
@@ -957,7 +957,7 @@ date,est_jour_ferie,nom_jour_ferie
 2037-05-01,True,Fête du travail
 2037-05-08,True,Victoire des alliés
 2037-05-14,True,Ascension
-2037-05-25,True,Pentecôte
+2037-05-25,True,Lundi de Pentecôte
 2037-07-14,True,Fête Nationale
 2037-08-15,True,Assomption
 2037-11-01,True,Toussaint
@@ -968,7 +968,7 @@ date,est_jour_ferie,nom_jour_ferie
 2038-05-01,True,Fête du travail
 2038-05-08,True,Victoire des alliés
 2038-06-03,True,Ascension
-2038-06-14,True,Pentecôte
+2038-06-14,True,Lundi de Pentecôte
 2038-07-14,True,Fête Nationale
 2038-08-15,True,Assomption
 2038-11-01,True,Toussaint
@@ -979,7 +979,7 @@ date,est_jour_ferie,nom_jour_ferie
 2039-05-01,True,Fête du travail
 2039-05-08,True,Victoire des alliés
 2039-05-19,True,Ascension
-2039-05-30,True,Pentecôte
+2039-05-30,True,Lundi de Pentecôte
 2039-07-14,True,Fête Nationale
 2039-08-15,True,Assomption
 2039-11-01,True,Toussaint
@@ -990,7 +990,7 @@ date,est_jour_ferie,nom_jour_ferie
 2040-05-01,True,Fête du travail
 2040-05-08,True,Victoire des alliés
 2040-05-10,True,Ascension
-2040-05-21,True,Pentecôte
+2040-05-21,True,Lundi de Pentecôte
 2040-07-14,True,Fête Nationale
 2040-08-15,True,Assomption
 2040-11-01,True,Toussaint
@@ -1001,7 +1001,7 @@ date,est_jour_ferie,nom_jour_ferie
 2041-05-01,True,Fête du travail
 2041-05-08,True,Victoire des alliés
 2041-05-30,True,Ascension
-2041-06-10,True,Pentecôte
+2041-06-10,True,Lundi de Pentecôte
 2041-07-14,True,Fête Nationale
 2041-08-15,True,Assomption
 2041-11-01,True,Toussaint
@@ -1012,7 +1012,7 @@ date,est_jour_ferie,nom_jour_ferie
 2042-05-01,True,Fête du travail
 2042-05-08,True,Victoire des alliés
 2042-05-15,True,Ascension
-2042-05-26,True,Pentecôte
+2042-05-26,True,Lundi de Pentecôte
 2042-07-14,True,Fête Nationale
 2042-08-15,True,Assomption
 2042-11-01,True,Toussaint
@@ -1023,7 +1023,7 @@ date,est_jour_ferie,nom_jour_ferie
 2043-05-01,True,Fête du travail
 2043-05-07,True,Ascension
 2043-05-08,True,Victoire des alliés
-2043-05-18,True,Pentecôte
+2043-05-18,True,Lundi de Pentecôte
 2043-07-14,True,Fête Nationale
 2043-08-15,True,Assomption
 2043-11-01,True,Toussaint
@@ -1034,7 +1034,7 @@ date,est_jour_ferie,nom_jour_ferie
 2044-05-01,True,Fête du travail
 2044-05-08,True,Victoire des alliés
 2044-05-26,True,Ascension
-2044-06-06,True,Pentecôte
+2044-06-06,True,Lundi de Pentecôte
 2044-07-14,True,Fête Nationale
 2044-08-15,True,Assomption
 2044-11-01,True,Toussaint
@@ -1045,7 +1045,7 @@ date,est_jour_ferie,nom_jour_ferie
 2045-05-01,True,Fête du travail
 2045-05-08,True,Victoire des alliés
 2045-05-18,True,Ascension
-2045-05-29,True,Pentecôte
+2045-05-29,True,Lundi de Pentecôte
 2045-07-14,True,Fête Nationale
 2045-08-15,True,Assomption
 2045-11-01,True,Toussaint
@@ -1056,7 +1056,7 @@ date,est_jour_ferie,nom_jour_ferie
 2046-05-01,True,Fête du travail
 2046-05-03,True,Ascension
 2046-05-08,True,Victoire des alliés
-2046-05-14,True,Pentecôte
+2046-05-14,True,Lundi de Pentecôte
 2046-07-14,True,Fête Nationale
 2046-08-15,True,Assomption
 2046-11-01,True,Toussaint
@@ -1067,7 +1067,7 @@ date,est_jour_ferie,nom_jour_ferie
 2047-05-01,True,Fête du travail
 2047-05-08,True,Victoire des alliés
 2047-05-23,True,Ascension
-2047-06-03,True,Pentecôte
+2047-06-03,True,Lundi de Pentecôte
 2047-07-14,True,Fête Nationale
 2047-08-15,True,Assomption
 2047-11-01,True,Toussaint
@@ -1078,7 +1078,7 @@ date,est_jour_ferie,nom_jour_ferie
 2048-05-01,True,Fête du travail
 2048-05-08,True,Victoire des alliés
 2048-05-14,True,Ascension
-2048-05-25,True,Pentecôte
+2048-05-25,True,Lundi de Pentecôte
 2048-07-14,True,Fête Nationale
 2048-08-15,True,Assomption
 2048-11-01,True,Toussaint
@@ -1089,7 +1089,7 @@ date,est_jour_ferie,nom_jour_ferie
 2049-05-02,True,Lundi de Pâques
 2049-05-08,True,Victoire des alliés
 2049-06-09,True,Ascension
-2049-06-20,True,Pentecôte
+2049-06-20,True,Lundi de Pentecôte
 2049-07-14,True,Fête Nationale
 2049-08-15,True,Assomption
 2049-11-01,True,Toussaint
@@ -1100,7 +1100,7 @@ date,est_jour_ferie,nom_jour_ferie
 2050-05-01,True,Fête du travail
 2050-05-08,True,Victoire des alliés
 2050-05-19,True,Ascension
-2050-05-30,True,Pentecôte
+2050-05-30,True,Lundi de Pentecôte
 2050-07-14,True,Fête Nationale
 2050-08-15,True,Assomption
 2050-11-01,True,Toussaint

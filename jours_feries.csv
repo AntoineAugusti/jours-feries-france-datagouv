@@ -147,7 +147,7 @@ date,est_jour_ferie,nom_jour_ferie
 1950-05-26,False,
 1950-05-27,False,
 1950-05-28,False,
-1950-05-29,True,Pentecôte
+1950-05-29,True,Lundi de Pentecôte
 1950-05-30,False,
 1950-05-31,False,
 1950-06-01,False,
@@ -497,7 +497,7 @@ date,est_jour_ferie,nom_jour_ferie
 1951-05-11,False,
 1951-05-12,False,
 1951-05-13,False,
-1951-05-14,True,Pentecôte
+1951-05-14,True,Lundi de Pentecôte
 1951-05-15,False,
 1951-05-16,False,
 1951-05-17,False,
@@ -882,7 +882,7 @@ date,est_jour_ferie,nom_jour_ferie
 1952-05-30,False,
 1952-05-31,False,
 1952-06-01,False,
-1952-06-02,True,Pentecôte
+1952-06-02,True,Lundi de Pentecôte
 1952-06-03,False,
 1952-06-04,False,
 1952-06-05,False,
@@ -1239,7 +1239,7 @@ date,est_jour_ferie,nom_jour_ferie
 1953-05-22,False,
 1953-05-23,False,
 1953-05-24,False,
-1953-05-25,True,Pentecôte
+1953-05-25,True,Lundi de Pentecôte
 1953-05-26,False,
 1953-05-27,False,
 1953-05-28,False,
@@ -1630,7 +1630,7 @@ date,est_jour_ferie,nom_jour_ferie
 1954-06-17,False,
 1954-06-18,False,
 1954-06-19,False,
-1954-06-20,True,Pentecôte
+1954-06-20,True,Lundi de Pentecôte
 1954-06-21,False,
 1954-06-22,False,
 1954-06-23,False,
@@ -1974,7 +1974,7 @@ date,est_jour_ferie,nom_jour_ferie
 1955-05-27,False,
 1955-05-28,False,
 1955-05-29,False,
-1955-05-30,True,Pentecôte
+1955-05-30,True,Lundi de Pentecôte
 1955-05-31,False,
 1955-06-01,False,
 1955-06-02,False,
@@ -2331,7 +2331,7 @@ date,est_jour_ferie,nom_jour_ferie
 1956-05-18,False,
 1956-05-19,False,
 1956-05-20,False,
-1956-05-21,True,Pentecôte
+1956-05-21,True,Lundi de Pentecôte
 1956-05-22,False,
 1956-05-23,False,
 1956-05-24,False,
@@ -2716,7 +2716,7 @@ date,est_jour_ferie,nom_jour_ferie
 1957-06-07,False,
 1957-06-08,False,
 1957-06-09,False,
-1957-06-10,True,Pentecôte
+1957-06-10,True,Lundi de Pentecôte
 1957-06-11,False,
 1957-06-12,False,
 1957-06-13,False,
@@ -3066,7 +3066,7 @@ date,est_jour_ferie,nom_jour_ferie
 1958-05-23,False,
 1958-05-24,False,
 1958-05-25,False,
-1958-05-26,True,Pentecôte
+1958-05-26,True,Lundi de Pentecôte
 1958-05-27,False,
 1958-05-28,False,
 1958-05-29,False,
@@ -3423,7 +3423,7 @@ date,est_jour_ferie,nom_jour_ferie
 1959-05-15,False,
 1959-05-16,False,
 1959-05-17,False,
-1959-05-18,True,Pentecôte
+1959-05-18,True,Lundi de Pentecôte
 1959-05-19,False,
 1959-05-20,False,
 1959-05-21,False,
@@ -3808,7 +3808,7 @@ date,est_jour_ferie,nom_jour_ferie
 1960-06-03,False,
 1960-06-04,False,
 1960-06-05,False,
-1960-06-06,True,Pentecôte
+1960-06-06,True,Lundi de Pentecôte
 1960-06-07,False,
 1960-06-08,False,
 1960-06-09,False,
@@ -4158,7 +4158,7 @@ date,est_jour_ferie,nom_jour_ferie
 1961-05-19,False,
 1961-05-20,False,
 1961-05-21,False,
-1961-05-22,True,Pentecôte
+1961-05-22,True,Lundi de Pentecôte
 1961-05-23,False,
 1961-05-24,False,
 1961-05-25,False,
@@ -4543,7 +4543,7 @@ date,est_jour_ferie,nom_jour_ferie
 1962-06-08,False,
 1962-06-09,False,
 1962-06-10,False,
-1962-06-11,True,Pentecôte
+1962-06-11,True,Lundi de Pentecôte
 1962-06-12,False,
 1962-06-13,False,
 1962-06-14,False,
@@ -4900,7 +4900,7 @@ date,est_jour_ferie,nom_jour_ferie
 1963-05-31,False,
 1963-06-01,False,
 1963-06-02,False,
-1963-06-03,True,Pentecôte
+1963-06-03,True,Lundi de Pentecôte
 1963-06-04,False,
 1963-06-05,False,
 1963-06-06,False,
@@ -5250,7 +5250,7 @@ date,est_jour_ferie,nom_jour_ferie
 1964-05-15,False,
 1964-05-16,False,
 1964-05-17,False,
-1964-05-18,True,Pentecôte
+1964-05-18,True,Lundi de Pentecôte
 1964-05-19,False,
 1964-05-20,False,
 1964-05-21,False,
@@ -5635,7 +5635,7 @@ date,est_jour_ferie,nom_jour_ferie
 1965-06-04,False,
 1965-06-05,False,
 1965-06-06,False,
-1965-06-07,True,Pentecôte
+1965-06-07,True,Lundi de Pentecôte
 1965-06-08,False,
 1965-06-09,False,
 1965-06-10,False,
@@ -5992,7 +5992,7 @@ date,est_jour_ferie,nom_jour_ferie
 1966-05-27,False,
 1966-05-28,False,
 1966-05-29,False,
-1966-05-30,True,Pentecôte
+1966-05-30,True,Lundi de Pentecôte
 1966-05-31,False,
 1966-06-01,False,
 1966-06-02,False,
@@ -6342,7 +6342,7 @@ date,est_jour_ferie,nom_jour_ferie
 1967-05-12,False,
 1967-05-13,False,
 1967-05-14,False,
-1967-05-15,True,Pentecôte
+1967-05-15,True,Lundi de Pentecôte
 1967-05-16,False,
 1967-05-17,False,
 1967-05-18,False,
@@ -6727,7 +6727,7 @@ date,est_jour_ferie,nom_jour_ferie
 1968-05-31,False,
 1968-06-01,False,
 1968-06-02,False,
-1968-06-03,True,Pentecôte
+1968-06-03,True,Lundi de Pentecôte
 1968-06-04,False,
 1968-06-05,False,
 1968-06-06,False,
@@ -7084,7 +7084,7 @@ date,est_jour_ferie,nom_jour_ferie
 1969-05-23,False,
 1969-05-24,False,
 1969-05-25,False,
-1969-05-26,True,Pentecôte
+1969-05-26,True,Lundi de Pentecôte
 1969-05-27,False,
 1969-05-28,False,
 1969-05-29,False,
@@ -7441,7 +7441,7 @@ date,est_jour_ferie,nom_jour_ferie
 1970-05-15,False,
 1970-05-16,False,
 1970-05-17,False,
-1970-05-18,True,Pentecôte
+1970-05-18,True,Lundi de Pentecôte
 1970-05-19,False,
 1970-05-20,False,
 1970-05-21,False,
@@ -7819,7 +7819,7 @@ date,est_jour_ferie,nom_jour_ferie
 1971-05-28,False,
 1971-05-29,False,
 1971-05-30,False,
-1971-05-31,True,Pentecôte
+1971-05-31,True,Lundi de Pentecôte
 1971-06-01,False,
 1971-06-02,False,
 1971-06-03,False,
@@ -8176,7 +8176,7 @@ date,est_jour_ferie,nom_jour_ferie
 1972-05-19,False,
 1972-05-20,False,
 1972-05-21,False,
-1972-05-22,True,Pentecôte
+1972-05-22,True,Lundi de Pentecôte
 1972-05-23,False,
 1972-05-24,False,
 1972-05-25,False,
@@ -8561,7 +8561,7 @@ date,est_jour_ferie,nom_jour_ferie
 1973-06-08,False,
 1973-06-09,False,
 1973-06-10,False,
-1973-06-11,True,Pentecôte
+1973-06-11,True,Lundi de Pentecôte
 1973-06-12,False,
 1973-06-13,False,
 1973-06-14,False,
@@ -8918,7 +8918,7 @@ date,est_jour_ferie,nom_jour_ferie
 1974-05-31,False,
 1974-06-01,False,
 1974-06-02,False,
-1974-06-03,True,Pentecôte
+1974-06-03,True,Lundi de Pentecôte
 1974-06-04,False,
 1974-06-05,False,
 1974-06-06,False,
@@ -9268,7 +9268,7 @@ date,est_jour_ferie,nom_jour_ferie
 1975-05-16,False,
 1975-05-17,False,
 1975-05-18,False,
-1975-05-19,True,Pentecôte
+1975-05-19,True,Lundi de Pentecôte
 1975-05-20,False,
 1975-05-21,False,
 1975-05-22,False,
@@ -9653,7 +9653,7 @@ date,est_jour_ferie,nom_jour_ferie
 1976-06-04,False,
 1976-06-05,False,
 1976-06-06,False,
-1976-06-07,True,Pentecôte
+1976-06-07,True,Lundi de Pentecôte
 1976-06-08,False,
 1976-06-09,False,
 1976-06-10,False,
@@ -10010,7 +10010,7 @@ date,est_jour_ferie,nom_jour_ferie
 1977-05-27,False,
 1977-05-28,False,
 1977-05-29,False,
-1977-05-30,True,Pentecôte
+1977-05-30,True,Lundi de Pentecôte
 1977-05-31,False,
 1977-06-01,False,
 1977-06-02,False,
@@ -10360,7 +10360,7 @@ date,est_jour_ferie,nom_jour_ferie
 1978-05-12,False,
 1978-05-13,False,
 1978-05-14,False,
-1978-05-15,True,Pentecôte
+1978-05-15,True,Lundi de Pentecôte
 1978-05-16,False,
 1978-05-17,False,
 1978-05-18,False,
@@ -10745,7 +10745,7 @@ date,est_jour_ferie,nom_jour_ferie
 1979-06-01,False,
 1979-06-02,False,
 1979-06-03,False,
-1979-06-04,True,Pentecôte
+1979-06-04,True,Lundi de Pentecôte
 1979-06-05,False,
 1979-06-06,False,
 1979-06-07,False,
@@ -11102,7 +11102,7 @@ date,est_jour_ferie,nom_jour_ferie
 1980-05-23,False,
 1980-05-24,False,
 1980-05-25,False,
-1980-05-26,True,Pentecôte
+1980-05-26,True,Lundi de Pentecôte
 1980-05-27,False,
 1980-05-28,False,
 1980-05-29,False,
@@ -11493,7 +11493,7 @@ date,est_jour_ferie,nom_jour_ferie
 1981-06-18,False,
 1981-06-19,False,
 1981-06-20,False,
-1981-06-21,True,Pentecôte
+1981-06-21,True,Lundi de Pentecôte
 1981-06-22,False,
 1981-06-23,False,
 1981-06-24,False,
@@ -11837,7 +11837,7 @@ date,est_jour_ferie,nom_jour_ferie
 1982-05-28,False,
 1982-05-29,False,
 1982-05-30,False,
-1982-05-31,True,Pentecôte
+1982-05-31,True,Lundi de Pentecôte
 1982-06-01,False,
 1982-06-02,False,
 1982-06-03,False,
@@ -12194,7 +12194,7 @@ date,est_jour_ferie,nom_jour_ferie
 1983-05-20,False,
 1983-05-21,False,
 1983-05-22,False,
-1983-05-23,True,Pentecôte
+1983-05-23,True,Lundi de Pentecôte
 1983-05-24,False,
 1983-05-25,False,
 1983-05-26,False,
@@ -12579,7 +12579,7 @@ date,est_jour_ferie,nom_jour_ferie
 1984-06-08,False,
 1984-06-09,False,
 1984-06-10,False,
-1984-06-11,True,Pentecôte
+1984-06-11,True,Lundi de Pentecôte
 1984-06-12,False,
 1984-06-13,False,
 1984-06-14,False,
@@ -12929,7 +12929,7 @@ date,est_jour_ferie,nom_jour_ferie
 1985-05-24,False,
 1985-05-25,False,
 1985-05-26,False,
-1985-05-27,True,Pentecôte
+1985-05-27,True,Lundi de Pentecôte
 1985-05-28,False,
 1985-05-29,False,
 1985-05-30,False,
@@ -13286,7 +13286,7 @@ date,est_jour_ferie,nom_jour_ferie
 1986-05-16,False,
 1986-05-17,False,
 1986-05-18,False,
-1986-05-19,True,Pentecôte
+1986-05-19,True,Lundi de Pentecôte
 1986-05-20,False,
 1986-05-21,False,
 1986-05-22,False,
@@ -13671,7 +13671,7 @@ date,est_jour_ferie,nom_jour_ferie
 1987-06-05,False,
 1987-06-06,False,
 1987-06-07,False,
-1987-06-08,True,Pentecôte
+1987-06-08,True,Lundi de Pentecôte
 1987-06-09,False,
 1987-06-10,False,
 1987-06-11,False,
@@ -14021,7 +14021,7 @@ date,est_jour_ferie,nom_jour_ferie
 1988-05-20,False,
 1988-05-21,False,
 1988-05-22,False,
-1988-05-23,True,Pentecôte
+1988-05-23,True,Lundi de Pentecôte
 1988-05-24,False,
 1988-05-25,False,
 1988-05-26,False,
@@ -14378,7 +14378,7 @@ date,est_jour_ferie,nom_jour_ferie
 1989-05-12,False,
 1989-05-13,False,
 1989-05-14,False,
-1989-05-15,True,Pentecôte
+1989-05-15,True,Lundi de Pentecôte
 1989-05-16,False,
 1989-05-17,False,
 1989-05-18,False,
@@ -14763,7 +14763,7 @@ date,est_jour_ferie,nom_jour_ferie
 1990-06-01,False,
 1990-06-02,False,
 1990-06-03,False,
-1990-06-04,True,Pentecôte
+1990-06-04,True,Lundi de Pentecôte
 1990-06-05,False,
 1990-06-06,False,
 1990-06-07,False,
@@ -15113,7 +15113,7 @@ date,est_jour_ferie,nom_jour_ferie
 1991-05-17,False,
 1991-05-18,False,
 1991-05-19,False,
-1991-05-20,True,Pentecôte
+1991-05-20,True,Lundi de Pentecôte
 1991-05-21,False,
 1991-05-22,False,
 1991-05-23,False,
@@ -15498,7 +15498,7 @@ date,est_jour_ferie,nom_jour_ferie
 1992-06-05,False,
 1992-06-06,False,
 1992-06-07,False,
-1992-06-08,True,Pentecôte
+1992-06-08,True,Lundi de Pentecôte
 1992-06-09,False,
 1992-06-10,False,
 1992-06-11,False,
@@ -15855,7 +15855,7 @@ date,est_jour_ferie,nom_jour_ferie
 1993-05-28,False,
 1993-05-29,False,
 1993-05-30,False,
-1993-05-31,True,Pentecôte
+1993-05-31,True,Lundi de Pentecôte
 1993-06-01,False,
 1993-06-02,False,
 1993-06-03,False,
@@ -16212,7 +16212,7 @@ date,est_jour_ferie,nom_jour_ferie
 1994-05-20,False,
 1994-05-21,False,
 1994-05-22,False,
-1994-05-23,True,Pentecôte
+1994-05-23,True,Lundi de Pentecôte
 1994-05-24,False,
 1994-05-25,False,
 1994-05-26,False,
@@ -16590,7 +16590,7 @@ date,est_jour_ferie,nom_jour_ferie
 1995-06-02,False,
 1995-06-03,False,
 1995-06-04,False,
-1995-06-05,True,Pentecôte
+1995-06-05,True,Lundi de Pentecôte
 1995-06-06,False,
 1995-06-07,False,
 1995-06-08,False,
@@ -16947,7 +16947,7 @@ date,est_jour_ferie,nom_jour_ferie
 1996-05-24,False,
 1996-05-25,False,
 1996-05-26,False,
-1996-05-27,True,Pentecôte
+1996-05-27,True,Lundi de Pentecôte
 1996-05-28,False,
 1996-05-29,False,
 1996-05-30,False,
@@ -17304,7 +17304,7 @@ date,est_jour_ferie,nom_jour_ferie
 1997-05-16,False,
 1997-05-17,False,
 1997-05-18,False,
-1997-05-19,True,Pentecôte
+1997-05-19,True,Lundi de Pentecôte
 1997-05-20,False,
 1997-05-21,False,
 1997-05-22,False,
@@ -17682,7 +17682,7 @@ date,est_jour_ferie,nom_jour_ferie
 1998-05-29,False,
 1998-05-30,False,
 1998-05-31,False,
-1998-06-01,True,Pentecôte
+1998-06-01,True,Lundi de Pentecôte
 1998-06-02,False,
 1998-06-03,False,
 1998-06-04,False,
@@ -18039,7 +18039,7 @@ date,est_jour_ferie,nom_jour_ferie
 1999-05-21,False,
 1999-05-22,False,
 1999-05-23,False,
-1999-05-24,True,Pentecôte
+1999-05-24,True,Lundi de Pentecôte
 1999-05-25,False,
 1999-05-26,False,
 1999-05-27,False,
@@ -18424,7 +18424,7 @@ date,est_jour_ferie,nom_jour_ferie
 2000-06-09,False,
 2000-06-10,False,
 2000-06-11,False,
-2000-06-12,True,Pentecôte
+2000-06-12,True,Lundi de Pentecôte
 2000-06-13,False,
 2000-06-14,False,
 2000-06-15,False,
@@ -18781,7 +18781,7 @@ date,est_jour_ferie,nom_jour_ferie
 2001-06-01,False,
 2001-06-02,False,
 2001-06-03,False,
-2001-06-04,True,Pentecôte
+2001-06-04,True,Lundi de Pentecôte
 2001-06-05,False,
 2001-06-06,False,
 2001-06-07,False,
@@ -19131,7 +19131,7 @@ date,est_jour_ferie,nom_jour_ferie
 2002-05-17,False,
 2002-05-18,False,
 2002-05-19,False,
-2002-05-20,True,Pentecôte
+2002-05-20,True,Lundi de Pentecôte
 2002-05-21,False,
 2002-05-22,False,
 2002-05-23,False,
@@ -19516,7 +19516,7 @@ date,est_jour_ferie,nom_jour_ferie
 2003-06-06,False,
 2003-06-07,False,
 2003-06-08,False,
-2003-06-09,True,Pentecôte
+2003-06-09,True,Lundi de Pentecôte
 2003-06-10,False,
 2003-06-11,False,
 2003-06-12,False,
@@ -19873,7 +19873,7 @@ date,est_jour_ferie,nom_jour_ferie
 2004-05-28,False,
 2004-05-29,False,
 2004-05-30,False,
-2004-05-31,True,Pentecôte
+2004-05-31,True,Lundi de Pentecôte
 2004-06-01,False,
 2004-06-02,False,
 2004-06-03,False,
@@ -20223,7 +20223,7 @@ date,est_jour_ferie,nom_jour_ferie
 2005-05-13,False,
 2005-05-14,False,
 2005-05-15,False,
-2005-05-16,True,Pentecôte
+2005-05-16,True,Lundi de Pentecôte
 2005-05-17,False,
 2005-05-18,False,
 2005-05-19,False,
@@ -20608,7 +20608,7 @@ date,est_jour_ferie,nom_jour_ferie
 2006-06-02,False,
 2006-06-03,False,
 2006-06-04,False,
-2006-06-05,True,Pentecôte
+2006-06-05,True,Lundi de Pentecôte
 2006-06-06,False,
 2006-06-07,False,
 2006-06-08,False,
@@ -20965,7 +20965,7 @@ date,est_jour_ferie,nom_jour_ferie
 2007-05-25,False,
 2007-05-26,False,
 2007-05-27,False,
-2007-05-28,True,Pentecôte
+2007-05-28,True,Lundi de Pentecôte
 2007-05-29,False,
 2007-05-30,False,
 2007-05-31,False,
@@ -21315,7 +21315,7 @@ date,est_jour_ferie,nom_jour_ferie
 2008-05-09,False,
 2008-05-10,False,
 2008-05-11,False,
-2008-05-12,True,Pentecôte
+2008-05-12,True,Lundi de Pentecôte
 2008-05-13,False,
 2008-05-14,False,
 2008-05-15,False,
@@ -21700,7 +21700,7 @@ date,est_jour_ferie,nom_jour_ferie
 2009-05-29,False,
 2009-05-30,False,
 2009-05-31,False,
-2009-06-01,True,Pentecôte
+2009-06-01,True,Lundi de Pentecôte
 2009-06-02,False,
 2009-06-03,False,
 2009-06-04,False,
@@ -22057,7 +22057,7 @@ date,est_jour_ferie,nom_jour_ferie
 2010-05-21,False,
 2010-05-22,False,
 2010-05-23,False,
-2010-05-24,True,Pentecôte
+2010-05-24,True,Lundi de Pentecôte
 2010-05-25,False,
 2010-05-26,False,
 2010-05-27,False,
@@ -22442,7 +22442,7 @@ date,est_jour_ferie,nom_jour_ferie
 2011-06-10,False,
 2011-06-11,False,
 2011-06-12,False,
-2011-06-13,True,Pentecôte
+2011-06-13,True,Lundi de Pentecôte
 2011-06-14,False,
 2011-06-15,False,
 2011-06-16,False,
@@ -22792,7 +22792,7 @@ date,est_jour_ferie,nom_jour_ferie
 2012-05-25,False,
 2012-05-26,False,
 2012-05-27,False,
-2012-05-28,True,Pentecôte
+2012-05-28,True,Lundi de Pentecôte
 2012-05-29,False,
 2012-05-30,False,
 2012-05-31,False,
@@ -23149,7 +23149,7 @@ date,est_jour_ferie,nom_jour_ferie
 2013-05-17,False,
 2013-05-18,False,
 2013-05-19,False,
-2013-05-20,True,Pentecôte
+2013-05-20,True,Lundi de Pentecôte
 2013-05-21,False,
 2013-05-22,False,
 2013-05-23,False,
@@ -23534,7 +23534,7 @@ date,est_jour_ferie,nom_jour_ferie
 2014-06-06,False,
 2014-06-07,False,
 2014-06-08,False,
-2014-06-09,True,Pentecôte
+2014-06-09,True,Lundi de Pentecôte
 2014-06-10,False,
 2014-06-11,False,
 2014-06-12,False,
@@ -23884,7 +23884,7 @@ date,est_jour_ferie,nom_jour_ferie
 2015-05-22,False,
 2015-05-23,False,
 2015-05-24,False,
-2015-05-25,True,Pentecôte
+2015-05-25,True,Lundi de Pentecôte
 2015-05-26,False,
 2015-05-27,False,
 2015-05-28,False,
@@ -24241,7 +24241,7 @@ date,est_jour_ferie,nom_jour_ferie
 2016-05-13,False,
 2016-05-14,False,
 2016-05-15,False,
-2016-05-16,True,Pentecôte
+2016-05-16,True,Lundi de Pentecôte
 2016-05-17,False,
 2016-05-18,False,
 2016-05-19,False,
@@ -24626,7 +24626,7 @@ date,est_jour_ferie,nom_jour_ferie
 2017-06-02,False,
 2017-06-03,False,
 2017-06-04,False,
-2017-06-05,True,Pentecôte
+2017-06-05,True,Lundi de Pentecôte
 2017-06-06,False,
 2017-06-07,False,
 2017-06-08,False,
@@ -24976,7 +24976,7 @@ date,est_jour_ferie,nom_jour_ferie
 2018-05-18,False,
 2018-05-19,False,
 2018-05-20,False,
-2018-05-21,True,Pentecôte
+2018-05-21,True,Lundi de Pentecôte
 2018-05-22,False,
 2018-05-23,False,
 2018-05-24,False,
@@ -25361,7 +25361,7 @@ date,est_jour_ferie,nom_jour_ferie
 2019-06-07,False,
 2019-06-08,False,
 2019-06-09,False,
-2019-06-10,True,Pentecôte
+2019-06-10,True,Lundi de Pentecôte
 2019-06-11,False,
 2019-06-12,False,
 2019-06-13,False,
@@ -25718,7 +25718,7 @@ date,est_jour_ferie,nom_jour_ferie
 2020-05-29,False,
 2020-05-30,False,
 2020-05-31,False,
-2020-06-01,True,Pentecôte
+2020-06-01,True,Lundi de Pentecôte
 2020-06-02,False,
 2020-06-03,False,
 2020-06-04,False,
@@ -26075,7 +26075,7 @@ date,est_jour_ferie,nom_jour_ferie
 2021-05-21,False,
 2021-05-22,False,
 2021-05-23,False,
-2021-05-24,True,Pentecôte
+2021-05-24,True,Lundi de Pentecôte
 2021-05-25,False,
 2021-05-26,False,
 2021-05-27,False,
@@ -26453,7 +26453,7 @@ date,est_jour_ferie,nom_jour_ferie
 2022-06-03,False,
 2022-06-04,False,
 2022-06-05,False,
-2022-06-06,True,Pentecôte
+2022-06-06,True,Lundi de Pentecôte
 2022-06-07,False,
 2022-06-08,False,
 2022-06-09,False,
@@ -26810,7 +26810,7 @@ date,est_jour_ferie,nom_jour_ferie
 2023-05-26,False,
 2023-05-27,False,
 2023-05-28,False,
-2023-05-29,True,Pentecôte
+2023-05-29,True,Lundi de Pentecôte
 2023-05-30,False,
 2023-05-31,False,
 2023-06-01,False,
@@ -27167,7 +27167,7 @@ date,est_jour_ferie,nom_jour_ferie
 2024-05-17,False,
 2024-05-18,False,
 2024-05-19,False,
-2024-05-20,True,Pentecôte
+2024-05-20,True,Lundi de Pentecôte
 2024-05-21,False,
 2024-05-22,False,
 2024-05-23,False,
@@ -27552,7 +27552,7 @@ date,est_jour_ferie,nom_jour_ferie
 2025-06-06,False,
 2025-06-07,False,
 2025-06-08,False,
-2025-06-09,True,Pentecôte
+2025-06-09,True,Lundi de Pentecôte
 2025-06-10,False,
 2025-06-11,False,
 2025-06-12,False,
@@ -27902,7 +27902,7 @@ date,est_jour_ferie,nom_jour_ferie
 2026-05-22,False,
 2026-05-23,False,
 2026-05-24,False,
-2026-05-25,True,Pentecôte
+2026-05-25,True,Lundi de Pentecôte
 2026-05-26,False,
 2026-05-27,False,
 2026-05-28,False,
@@ -28259,7 +28259,7 @@ date,est_jour_ferie,nom_jour_ferie
 2027-05-14,False,
 2027-05-15,False,
 2027-05-16,False,
-2027-05-17,True,Pentecôte
+2027-05-17,True,Lundi de Pentecôte
 2027-05-18,False,
 2027-05-19,False,
 2027-05-20,False,
@@ -28644,7 +28644,7 @@ date,est_jour_ferie,nom_jour_ferie
 2028-06-02,False,
 2028-06-03,False,
 2028-06-04,False,
-2028-06-05,True,Pentecôte
+2028-06-05,True,Lundi de Pentecôte
 2028-06-06,False,
 2028-06-07,False,
 2028-06-08,False,
@@ -28994,7 +28994,7 @@ date,est_jour_ferie,nom_jour_ferie
 2029-05-18,False,
 2029-05-19,False,
 2029-05-20,False,
-2029-05-21,True,Pentecôte
+2029-05-21,True,Lundi de Pentecôte
 2029-05-22,False,
 2029-05-23,False,
 2029-05-24,False,
@@ -29379,7 +29379,7 @@ date,est_jour_ferie,nom_jour_ferie
 2030-06-07,False,
 2030-06-08,False,
 2030-06-09,False,
-2030-06-10,True,Pentecôte
+2030-06-10,True,Lundi de Pentecôte
 2030-06-11,False,
 2030-06-12,False,
 2030-06-13,False,
@@ -29736,7 +29736,7 @@ date,est_jour_ferie,nom_jour_ferie
 2031-05-30,False,
 2031-05-31,False,
 2031-06-01,False,
-2031-06-02,True,Pentecôte
+2031-06-02,True,Lundi de Pentecôte
 2031-06-03,False,
 2031-06-04,False,
 2031-06-05,False,
@@ -30086,7 +30086,7 @@ date,est_jour_ferie,nom_jour_ferie
 2032-05-14,False,
 2032-05-15,False,
 2032-05-16,False,
-2032-05-17,True,Pentecôte
+2032-05-17,True,Lundi de Pentecôte
 2032-05-18,False,
 2032-05-19,False,
 2032-05-20,False,
@@ -30471,7 +30471,7 @@ date,est_jour_ferie,nom_jour_ferie
 2033-06-03,False,
 2033-06-04,False,
 2033-06-05,False,
-2033-06-06,True,Pentecôte
+2033-06-06,True,Lundi de Pentecôte
 2033-06-07,False,
 2033-06-08,False,
 2033-06-09,False,
@@ -30828,7 +30828,7 @@ date,est_jour_ferie,nom_jour_ferie
 2034-05-26,False,
 2034-05-27,False,
 2034-05-28,False,
-2034-05-29,True,Pentecôte
+2034-05-29,True,Lundi de Pentecôte
 2034-05-30,False,
 2034-05-31,False,
 2034-06-01,False,
@@ -31178,7 +31178,7 @@ date,est_jour_ferie,nom_jour_ferie
 2035-05-11,False,
 2035-05-12,False,
 2035-05-13,False,
-2035-05-14,True,Pentecôte
+2035-05-14,True,Lundi de Pentecôte
 2035-05-15,False,
 2035-05-16,False,
 2035-05-17,False,
@@ -31563,7 +31563,7 @@ date,est_jour_ferie,nom_jour_ferie
 2036-05-30,False,
 2036-05-31,False,
 2036-06-01,False,
-2036-06-02,True,Pentecôte
+2036-06-02,True,Lundi de Pentecôte
 2036-06-03,False,
 2036-06-04,False,
 2036-06-05,False,
@@ -31920,7 +31920,7 @@ date,est_jour_ferie,nom_jour_ferie
 2037-05-22,False,
 2037-05-23,False,
 2037-05-24,False,
-2037-05-25,True,Pentecôte
+2037-05-25,True,Lundi de Pentecôte
 2037-05-26,False,
 2037-05-27,False,
 2037-05-28,False,
@@ -32305,7 +32305,7 @@ date,est_jour_ferie,nom_jour_ferie
 2038-06-11,False,
 2038-06-12,False,
 2038-06-13,False,
-2038-06-14,True,Pentecôte
+2038-06-14,True,Lundi de Pentecôte
 2038-06-15,False,
 2038-06-16,False,
 2038-06-17,False,
@@ -32655,7 +32655,7 @@ date,est_jour_ferie,nom_jour_ferie
 2039-05-27,False,
 2039-05-28,False,
 2039-05-29,False,
-2039-05-30,True,Pentecôte
+2039-05-30,True,Lundi de Pentecôte
 2039-05-31,False,
 2039-06-01,False,
 2039-06-02,False,
@@ -33012,7 +33012,7 @@ date,est_jour_ferie,nom_jour_ferie
 2040-05-18,False,
 2040-05-19,False,
 2040-05-20,False,
-2040-05-21,True,Pentecôte
+2040-05-21,True,Lundi de Pentecôte
 2040-05-22,False,
 2040-05-23,False,
 2040-05-24,False,
@@ -33397,7 +33397,7 @@ date,est_jour_ferie,nom_jour_ferie
 2041-06-07,False,
 2041-06-08,False,
 2041-06-09,False,
-2041-06-10,True,Pentecôte
+2041-06-10,True,Lundi de Pentecôte
 2041-06-11,False,
 2041-06-12,False,
 2041-06-13,False,
@@ -33747,7 +33747,7 @@ date,est_jour_ferie,nom_jour_ferie
 2042-05-23,False,
 2042-05-24,False,
 2042-05-25,False,
-2042-05-26,True,Pentecôte
+2042-05-26,True,Lundi de Pentecôte
 2042-05-27,False,
 2042-05-28,False,
 2042-05-29,False,
@@ -34104,7 +34104,7 @@ date,est_jour_ferie,nom_jour_ferie
 2043-05-15,False,
 2043-05-16,False,
 2043-05-17,False,
-2043-05-18,True,Pentecôte
+2043-05-18,True,Lundi de Pentecôte
 2043-05-19,False,
 2043-05-20,False,
 2043-05-21,False,
@@ -34489,7 +34489,7 @@ date,est_jour_ferie,nom_jour_ferie
 2044-06-03,False,
 2044-06-04,False,
 2044-06-05,False,
-2044-06-06,True,Pentecôte
+2044-06-06,True,Lundi de Pentecôte
 2044-06-07,False,
 2044-06-08,False,
 2044-06-09,False,
@@ -34846,7 +34846,7 @@ date,est_jour_ferie,nom_jour_ferie
 2045-05-26,False,
 2045-05-27,False,
 2045-05-28,False,
-2045-05-29,True,Pentecôte
+2045-05-29,True,Lundi de Pentecôte
 2045-05-30,False,
 2045-05-31,False,
 2045-06-01,False,
@@ -35196,7 +35196,7 @@ date,est_jour_ferie,nom_jour_ferie
 2046-05-11,False,
 2046-05-12,False,
 2046-05-13,False,
-2046-05-14,True,Pentecôte
+2046-05-14,True,Lundi de Pentecôte
 2046-05-15,False,
 2046-05-16,False,
 2046-05-17,False,
@@ -35581,7 +35581,7 @@ date,est_jour_ferie,nom_jour_ferie
 2047-05-31,False,
 2047-06-01,False,
 2047-06-02,False,
-2047-06-03,True,Pentecôte
+2047-06-03,True,Lundi de Pentecôte
 2047-06-04,False,
 2047-06-05,False,
 2047-06-06,False,
@@ -35938,7 +35938,7 @@ date,est_jour_ferie,nom_jour_ferie
 2048-05-22,False,
 2048-05-23,False,
 2048-05-24,False,
-2048-05-25,True,Pentecôte
+2048-05-25,True,Lundi de Pentecôte
 2048-05-26,False,
 2048-05-27,False,
 2048-05-28,False,
@@ -36329,7 +36329,7 @@ date,est_jour_ferie,nom_jour_ferie
 2049-06-17,False,
 2049-06-18,False,
 2049-06-19,False,
-2049-06-20,True,Pentecôte
+2049-06-20,True,Lundi de Pentecôte
 2049-06-21,False,
 2049-06-22,False,
 2049-06-23,False,
@@ -36673,7 +36673,7 @@ date,est_jour_ferie,nom_jour_ferie
 2050-05-27,False,
 2050-05-28,False,
 2050-05-29,False,
-2050-05-30,True,Pentecôte
+2050-05-30,True,Lundi de Pentecôte
 2050-05-31,False,
 2050-06-01,False,
 2050-06-02,False,
