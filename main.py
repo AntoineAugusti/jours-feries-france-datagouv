@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
-import pandas as pd
-from jours_feries_france.compute import JoursFeries
 from datetime import date
+
+import pandas as pd
+from ics import Calendar, Event
+from jours_feries_france.compute import JoursFeries
 
 
 def bank_holiday_name(data, date):
@@ -10,6 +12,14 @@ def bank_holiday_name(data, date):
 
 def to_csv(df, filename):
     df.to_csv(filename, index=False, encoding='utf-8')
+
+
+def add_event(calendar, name, date):
+    event = Event()
+    event.name = name
+    event.begin = date.strftime('%Y-%m-%d')
+    event.make_all_day()
+    calendar.events.add(event)
 
 START, END = date(1950, 1, 1), date(2050, 12, 31)
 
@@ -21,6 +31,7 @@ modes = [
 for mode in modes:
     args, suffix = mode
     bank_holidays = {}
+    calendar = Calendar()
 
     for year in range(START.year, END.year+1):
         bank_holidays[year] = JoursFeries.for_year(year, **args)
@@ -33,6 +44,8 @@ for mode in modes:
         if est_jour_ferie:
             nom_jour_ferie = bank_holiday_name(bank_holidays, the_date)
 
+            add_event(calendar, nom_jour_ferie, the_date)
+
         data.append({
             'date': the_date.strftime('%Y-%m-%d'),
             'est_jour_ferie': est_jour_ferie,
@@ -42,3 +55,6 @@ for mode in modes:
     df = pd.DataFrame(data)
     to_csv(df, 'jours_feries' + suffix + '.csv')
     to_csv(df[df.est_jour_ferie], 'jours_feries_seuls' + suffix + '.csv')
+
+    with open('jours_feries' + suffix + '.ics', 'w') as my_file:
+        my_file.writelines(calendar)
