@@ -44,11 +44,11 @@ date,est_jour_ferie,nom_jour_ferie
 1953-11-11,True,Armistice
 1953-12-25,True,Noël
 1954-01-01,True,Jour de l'an
+1954-04-19,True,Lundi de Pâques
 1954-05-01,True,Fête du travail
-1954-05-02,True,Lundi de Pâques
 1954-05-08,True,Victoire des alliés
-1954-06-09,True,Ascension
-1954-06-20,True,Lundi de Pentecôte
+1954-05-27,True,Ascension
+1954-06-07,True,Lundi de Pentecôte
 1954-07-14,True,Fête Nationale
 1954-08-15,True,Assomption
 1954-11-01,True,Toussaint
@@ -340,11 +340,11 @@ date,est_jour_ferie,nom_jour_ferie
 1980-11-11,True,Armistice
 1980-12-25,True,Noël
 1981-01-01,True,Jour de l'an
+1981-04-20,True,Lundi de Pâques
 1981-05-01,True,Fête du travail
-1981-05-03,True,Lundi de Pâques
 1981-05-08,True,Victoire des alliés
-1981-06-10,True,Ascension
-1981-06-21,True,Lundi de Pentecôte
+1981-05-28,True,Ascension
+1981-06-08,True,Lundi de Pentecôte
 1981-07-14,True,Fête Nationale
 1981-08-15,True,Assomption
 1981-11-01,True,Toussaint
@@ -1085,11 +1085,11 @@ date,est_jour_ferie,nom_jour_ferie
 2048-11-11,True,Armistice
 2048-12-25,True,Noël
 2049-01-01,True,Jour de l'an
+2049-04-19,True,Lundi de Pâques
 2049-05-01,True,Fête du travail
-2049-05-02,True,Lundi de Pâques
 2049-05-08,True,Victoire des alliés
-2049-06-09,True,Ascension
-2049-06-20,True,Lundi de Pentecôte
+2049-05-27,True,Ascension
+2049-06-07,True,Lundi de Pentecôte
 2049-07-14,True,Fête Nationale
 2049-08-15,True,Assomption
 2049-11-01,True,Toussaint

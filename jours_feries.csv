@@ -1568,7 +1568,7 @@ date,est_jour_ferie,nom_jour_ferie
 1954-04-16,False,
 1954-04-17,False,
 1954-04-18,False,
-1954-04-19,False,
+1954-04-19,True,Lundi de Pâques
 1954-04-20,False,
 1954-04-21,False,
 1954-04-22,False,
@@ -1581,7 +1581,7 @@ date,est_jour_ferie,nom_jour_ferie
 1954-04-29,False,
 1954-04-30,False,
 1954-05-01,True,Fête du travail
-1954-05-02,True,Lundi de Pâques
+1954-05-02,False,
 1954-05-03,False,
 1954-05-04,False,
 1954-05-05,False,
@@ -1606,7 +1606,7 @@ date,est_jour_ferie,nom_jour_ferie
 1954-05-24,False,
 1954-05-25,False,
 1954-05-26,False,
-1954-05-27,False,
+1954-05-27,True,Ascension
 1954-05-28,False,
 1954-05-29,False,
 1954-05-30,False,
@@ -1617,9 +1617,9 @@ date,est_jour_ferie,nom_jour_ferie
 1954-06-04,False,
 1954-06-05,False,
 1954-06-06,False,
-1954-06-07,False,
+1954-06-07,True,Lundi de Pentecôte
 1954-06-08,False,
-1954-06-09,True,Ascension
+1954-06-09,False,
 1954-06-10,False,
 1954-06-11,False,
 1954-06-12,False,
@@ -1630,7 +1630,7 @@ date,est_jour_ferie,nom_jour_ferie
 1954-06-17,False,
 1954-06-18,False,
 1954-06-19,False,
-1954-06-20,True,Lundi de Pentecôte
+1954-06-20,False,
 1954-06-21,False,
 1954-06-22,False,
 1954-06-23,False,
@@ -11431,7 +11431,7 @@ date,est_jour_ferie,nom_jour_ferie
 1981-04-17,False,
 1981-04-18,False,
 1981-04-19,False,
-1981-04-20,False,
+1981-04-20,True,Lundi de Pâques
 1981-04-21,False,
 1981-04-22,False,
 1981-04-23,False,
@@ -11444,7 +11444,7 @@ date,est_jour_ferie,nom_jour_ferie
 1981-04-30,False,
 1981-05-01,True,Fête du travail
 1981-05-02,False,
-1981-05-03,True,Lundi de Pâques
+1981-05-03,False,
 1981-05-04,False,
 1981-05-05,False,
 1981-05-06,False,
@@ -11469,7 +11469,7 @@ date,est_jour_ferie,nom_jour_ferie
 1981-05-25,False,
 1981-05-26,False,
 1981-05-27,False,
-1981-05-28,False,
+1981-05-28,True,Ascension
 1981-05-29,False,
 1981-05-30,False,
 1981-05-31,False,
@@ -11480,9 +11480,9 @@ date,est_jour_ferie,nom_jour_ferie
 1981-06-05,False,
 1981-06-06,False,
 1981-06-07,False,
-1981-06-08,False,
+1981-06-08,True,Lundi de Pentecôte
 1981-06-09,False,
-1981-06-10,True,Ascension
+1981-06-10,False,
 1981-06-11,False,
 1981-06-12,False,
 1981-06-13,False,
@@ -11493,7 +11493,7 @@ date,est_jour_ferie,nom_jour_ferie
 1981-06-18,False,
 1981-06-19,False,
 1981-06-20,False,
-1981-06-21,True,Lundi de Pentecôte
+1981-06-21,False,
 1981-06-22,False,
 1981-06-23,False,
 1981-06-24,False,
@@ -36267,7 +36267,7 @@ date,est_jour_ferie,nom_jour_ferie
 2049-04-16,False,
 2049-04-17,False,
 2049-04-18,False,
-2049-04-19,False,
+2049-04-19,True,Lundi de Pâques
 2049-04-20,False,
 2049-04-21,False,
 2049-04-22,False,
@@ -36280,7 +36280,7 @@ date,est_jour_ferie,nom_jour_ferie
 2049-04-29,False,
 2049-04-30,False,
 2049-05-01,True,Fête du travail
-2049-05-02,True,Lundi de Pâques
+2049-05-02,False,
 2049-05-03,False,
 2049-05-04,False,
 2049-05-05,False,
@@ -36305,7 +36305,7 @@ date,est_jour_ferie,nom_jour_ferie
 2049-05-24,False,
 2049-05-25,False,
 2049-05-26,False,
-2049-05-27,False,
+2049-05-27,True,Ascension
 2049-05-28,False,
 2049-05-29,False,
 2049-05-30,False,
@@ -36316,9 +36316,9 @@ date,est_jour_ferie,nom_jour_ferie
 2049-06-04,False,
 2049-06-05,False,
 2049-06-06,False,
-2049-06-07,False,
+2049-06-07,True,Lundi de Pentecôte
 2049-06-08,False,
-2049-06-09,True,Ascension
+2049-06-09,False,
 2049-06-10,False,
 2049-06-11,False,
 2049-06-12,False,
@@ -36329,7 +36329,7 @@ date,est_jour_ferie,nom_jour_ferie
 2049-06-17,False,
 2049-06-18,False,
 2049-06-19,False,
-2049-06-20,True,Lundi de Pentecôte
+2049-06-20,False,
 2049-06-21,False,
 2049-06-22,False,
 2049-06-23,False,
